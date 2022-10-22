@@ -25,3 +25,13 @@ Took 15 60-second exposures with CBB.
 Took 15 more 60-second exposures.
 
 @Focus3: 6306 @17.6&deg;
+
+11:00pm Ten 60-second darks
+
+11:22pm Sixty 1-second flats
+
+11:32pm Sixty 1-second biases
+
+#### Improvement over the course of the evening
+
+Is this because the atmosphere became more stable or because the altitude increased to 77&deg; or both?
