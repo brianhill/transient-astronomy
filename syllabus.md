@@ -6,7 +6,7 @@ Terms 3-6 of Academic Year 2022-2023, Deep Springs College
 
 Mentor/Supervisor: [Prof. Brian Hill](https://brianhill.github.io)
 
-Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek, DS 22)
+Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 
 ## What We Expect to Accomplish
 
