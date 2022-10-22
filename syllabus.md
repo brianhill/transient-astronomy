@@ -47,7 +47,7 @@ Our analysis will involve establish a data-processing pipeline in Python which w
 
 ## Grading / Evaluation
 
-* Observational Work &mdash; 25% &mdash; This will be comprised of observatory setup and teardown work as well as approximately 10 evenings of data-taking
+* Observational Work &mdash; 25% &mdash; This will be comprised of observatory setup and teardown work as well as approximately 14 data-taking sessions
 * Analytical Work &mdash; 25% &mdash; This will be comprised of data processing using Python packages
 * Scientific Record-Keeping &mdash; 25% &mdash; Records should include: (a) Target Selection Criteria, (b) Listings of Available Targets and their properties, (c) Conditions of Data-Taking, (d) Factors in Data-Processing
 * Project Report and Presentation &mdash; 25% &mdash; We will jointly produce a project report. If our results are sufficiently significant, our project report will be submitted as a paper to a refereed journal (such as the Journal of the AAVSO or the Astronomical Society of the Pacific). We will also present our results to the Deep Springs community as a standalone presentation or as a lecture in the lecture series that is under discussion by CurCom.
