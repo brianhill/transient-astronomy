@@ -49,7 +49,7 @@ Analytical work has frequently been referred to above. In the Spring 2022 Observ
 
 Our analysis will involve establish a data-processing pipeline in Python which we expect to use (i) astroalign for alignment (https://astroalign.quatrope.org/en/latest/), and (ii) photutils for aperture-annulus photometry (https://photutils.readthedocs.io/en/stable/getting_started.html). These (and other scientific) packages are most commonly accessed from Jupyter notebooks. Jupyter is an interactive scripting environment for manipulating data, making plots, and running Python code. We will produce the plots for our writeup in Jupyter notebooks.
 
-## Record of Tasks and Progress
+## Record of Work
 
 A record of our tasks and progress will be maintained:
 
