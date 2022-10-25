@@ -53,7 +53,7 @@ Our analysis will involve establish a data-processing pipeline in Python which w
 
 A record of our tasks and progress will be maintained:
 
-* [Record of Work](./record_of_work_term_3.html)
+* [Record of Work](./record_of_work-term_3.html)
 
 ## Grading / Evaluation
 

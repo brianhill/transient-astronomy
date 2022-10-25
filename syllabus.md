@@ -1,6 +1,6 @@
 # Transient Astronomy Syllabus
 
-*A Directed Study aimed at pushing the limits of the Deep Springs Observatory and of observing the behavior of transient targets, particularly supernovae*
+*A program of directed study and research aimed at pushing the limits of the Deep Springs Observatory and of observing the behavior of transient targets, particularly supernovae.*
 
 Terms 3-6 of Academic Year 2022-2023, Deep Springs College
 

@@ -1,6 +1,6 @@
-## Transient Astronomy Record of Work Term 3
+## Record of Work &mdash; Term 3
 
-Directed Study and Research [home page](./)
+Transient Astronomy [home page](./)
 
 ### Week 0
 
