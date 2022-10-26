@@ -8,7 +8,7 @@
 
 Temperature was 8.8&deg;. Our best possible focus was 6850, based on two runs of @Focus3.
 
-Clear and cool and calm by 10:30pm.
+Weather: Clear and cool and calm by 10:30pm.
 
 New Moon.
 
