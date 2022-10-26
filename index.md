@@ -1,4 +1,4 @@
-# Transient Astronomy Syllabus
+# Transient Astronomy
 
 *A program of directed study and research aimed at pushing the limits of the Deep Springs Observatory and of observing the behavior of transient targets, particularly supernovae.*
 
