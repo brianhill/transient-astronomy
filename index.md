@@ -8,13 +8,19 @@ Mentor/Supervisor: [Prof. Brian Hill](../index.html)
 
 Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 
+## Record of Work
+
+A record of our tasks and progress is being maintained:
+
+* [Record of Work](./record_of_work-term_3.html)
+
 ## Syllabus
 
-* [Syllabus](./TransientAstronomySyllabus.pdf) &mdash; A PDF mirroring what is on these web pages
+* [Syllabus](./TransientAstronomySyllabus.pdf) &mdash; A PDF that mirrors what is on this web page
 
-## What We Expect to Accomplish
+## Overview
 
-This Directed Study Will Address the Following Research Questions:
+This directed study will address the following research questions:
 
 1. In the dark skies and high altitude at the [Deep Springs Observatory](../deep-springs-observatory/index.html), what observational techniques and conditions make us the most sensitive and accurate that we can we be in detecting and estimating the changes in brightness of stars possibly as dim as magnitude 20 with the observatory's relatively modest (250mm) telescope? We fully expect to be able to get to magnitude 19. NB: larger numbers are dimmer in the astronomical magnitude system. Before this directed study even begins, we have become confident that our equipment can easily identify magnitude 18 stars.
 2. What are the best practices in the analysis of the data taken in our observations that again push the brightness limits of our setup?
@@ -24,7 +30,7 @@ These questions are mostly in the realm of experimental technique as our setup i
 
 ## Schedule and Work Plan
 
-This proposal is a blend of a (1) observational astronomy, (2) data-taking with research ambitions, and (3) developing a data-processing pipeline in Python. This blend fits under the model of “Research Experience for Undergraduates (REU),” as it is known at many institutions.
+This directed study is a blend of a (1) observational astronomy, (2) data-taking with research ambitions, and (3) developing a data-processing pipeline in Python. This blend fits under the model of &ldquo;Research Experience for Undergraduates (REU),&rdquo; as it is known at many institutions.
 
 To carry these three activities out, we need approximately 7 meetings for theory and organization, 14 meetings for joint observation sessions, and 7 meetings for joint analysis sessions.
 
@@ -36,7 +42,7 @@ Because we will be limited by Moon, weather conditions, and our general availabi
 
 All three of us need to be fully cognizant and responsible for the results that we produce. This means that we will (outside of regular meeting times) be independently doing analyses of the data we have taken. Also, all three of us do not need to be present for all data-taking sessions, so there will be data-taking sessions consisting of just pairs of us taking additional data once the techniques have been established to all three of our satisfaction. A typical data-taking session will run from about 7pm to midnight, which includes time for setup and teardown. Some data-taking sessions will be pre-dawn instead of in the evening (e.g., from about 3am to 7am).
 
-### Three Phases
+### Phases
 
 Although there is definitely not a hard delineation or progression between (1) establishing technique, (2) using that technique, and (3) analyzing and writing up results, there are nonetheless three identifiable phases.
 
@@ -45,15 +51,9 @@ Roughly speaking, these three phases will correspond to our activities in the th
 
 ### Analytical Work in Python
 
-Analytical work has frequently been referred to above. In the Spring 2022 Observational Astronomy course, this work was done in a relatively pedestrian and user-friendly tool called AstroImageJ. Most professional astronomers do similar analyses in other more versatile environments. Among younger and newer astronomers (regretfully this sounds age-ist, but this is the way the astronomical community is actually composed), Python has become the dominant choice. Established and older astronomers typically use IDL and IRAF. Because Python is such a general-purpose environment and it is inexpensive, it is valuable to be familiar with it, and that will be our choice.
+Analytical work has frequently been referred to above. In the [Spring 2022 Observational Astronomy course](../observational-astronomy/index.html), this work was done in a relatively pedestrian and user-friendly tool called AstroImageJ. Most professional astronomers do similar analyses in other more versatile environments. Among newer astronomers, Python has become the dominant choice. Established astronomers often use IDL and IRAF. Because Python is becoming dominant as a general-purpose environment and it is free, that will be our choice.
 
-Our analysis will involve establish a data-processing pipeline in Python which we expect to use (i) [ccdproc](https://ccdproc.readthedocs.io/en/latest/) for image calibration (lights, darks, flats, and biases), (ii) [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment, and (iii) [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) for aperture-annulus photometry. These (and other scientific) packages are most commonly accessed from Jupyter notebooks. Jupyter is an interactive scripting environment for manipulating data, making plots, and running Python code.
-
-## Record of Work
-
-A record of our tasks and progress will be maintained:
-
-* [Record of Work](./record_of_work-term_3.html)
+Our analysis will involve establishing a data-processing pipeline in Python which we expect to use (i) [ccdproc](https://ccdproc.readthedocs.io/en/latest/) for image calibration (lights, darks, flats, and biases), (ii) [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment, and (iii) [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) for aperture-annulus photometry. These (and other scientific) packages are most commonly accessed from Jupyter notebooks. Jupyter is an interactive scripting environment for manipulating data, making plots, and running Python code.
 
 ## Grading / Evaluation
 
