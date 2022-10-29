@@ -2,6 +2,8 @@
 
 Transient Astronomy [home page](./)
 
+*This [moon phases](./resources/MoonPhases.png) table should be helpful for planning observing sessions.*
+
 ### Week 0 &mdash; First Observations
 
 * 2022-10-18 &mdash; Observed [NGC 869](.2022-10-1819-NGC_869/index.html)
