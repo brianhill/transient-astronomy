@@ -1,8 +1,10 @@
 ## Development Environment
 
+*Documentation of our development environment choices and procedures*
+
 ### Anaconda
 
-The [2022.10 release](https://www.anaconda.com/blog/anaconda-distribution-2022-10) (or higher) of the Anaconda Distribution is the starting point for our development environment. Key tools, services, and apps supporting our work in the Anaconda Distribution of Python are git, GitHub, and TextMate 2.0. All team members are running macOS on MacBooks of various vintages, but we expect that our analysis pipeline to be completely portable to any other platform supported by Anaconda. Our code will live in Jupyter notebooks. Jupyter is an interactive scripting environment for manipulating data, making plots, and running Python code.
+The [2022.10 release](https://www.anaconda.com/blog/anaconda-distribution-2022-10) (or higher) of the Anaconda Distribution is the starting point for our development environment. Key tools, services, and apps supporting our work in the Anaconda Distribution of Python are git, GitHub, and TextMate 2.0. All team members are running macOS on MacBooks of various vintages, but we expect our analysis pipeline to be completely portable to any other platform supported by Anaconda.
 
 We begin by making a new environment from the base environment:
 
@@ -37,4 +39,5 @@ In a Jupyter notebook, we will follow the [Getting Started](https://ccdproc.read
 First we need to get Jupyter started. In a Terminal window:
 
 `cd ~/Projects/transient-astronomy/analyses`
+
 `jupyter notebook`
