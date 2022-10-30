@@ -6,9 +6,9 @@ Transient Astronomy [home page](./)
 
 ### Week 0 &mdash; First Observations
 
-* 2022-10-18 &mdash; Observed [NGC 869](.2022-10-1819-NGC_869/index.html)
-* 2022-10-21 &mdash; Observed [Supernova 2022vqz](./2022-10-2122-SN_2022vqz/index.html)
-* 2022-10-24 &mdash; Observed [Supernova 2022vqz](./2022-10-2425-SN_2022vqz/index.html)
+* 2022-10-18 &mdash; Observed [NGC 869](./analyses/2022-10-1819-NGC_869/index.html)
+* 2022-10-21 &mdash; Observed [Supernova 2022vqz](./analyses/2022-10-2122-SN_2022vqz/index.html)
+* 2022-10-24 &mdash; Observed [Supernova 2022vqz](./analyses/2022-10-2425-SN_2022vqz/index.html)
 
 ### Week 1 &mdash; Start Development of Analysis Pipeline
 
