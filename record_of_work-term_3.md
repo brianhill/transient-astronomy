@@ -13,9 +13,8 @@ Transient Astronomy [home page](./)
 ### Week 1 &mdash; Start Development of Analysis Pipeline
 
 * 2022-10-25 &mdash; Installed Anaconda Python distribution &mdash; Installed TextMate 2.0 &mdash; Installed Xcode Command-Line Developer Tools &mdash; Created GitHub accounts &mdash; Created clones of this git repository and did first shared edits
-* 2022-10-29 &mdash; Created Jupyter notebooks to calibrate FITS files using [ccdproc](https://ccdproc.readthedocs.io/en/latest/)
+* 2022-10-29 &mdash; Made first Jupyter notebook and installed [ccdproc](https://ccdproc.readthedocs.io/en/latest/)
 
 ### Week 2 &mdash; Analyze First Observations
 
-* 2022-11-02 &mdash; Calibrated, aligned, and stacked data taken on 2022-10-21, 2022-10-24, and 2022-10-25
-* 2022-11-05 &mdash; Performed aperture-annulus photometry on data taken on 2022-10-21, 2022-10-24, and 2022-10-25
+* 2022-11-02 &mdash; Use ccdproc to calibrate the lights in the 2022-10-2425 data
