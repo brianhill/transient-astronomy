@@ -1,4 +1,4 @@
-## Setup and Teardown Procedures
+## Setup and Teardown Procedure
 
 *An outline of the essential steps for preparing for an observing run and mopping up afterwards*
 
