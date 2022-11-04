@@ -40,7 +40,7 @@ Because we will be limited by Moon, weather conditions, and our general availabi
 
 ### Project Activities
 
-All three of us need to be fully cognizant and responsible for the results that we produce. This means that we will (outside of regular meeting times) be independently doing analyses of the data we have taken. Also, all three of us do not need to be present for all data-taking sessions, so there will be data-taking sessions consisting of just pairs of us taking additional data once the techniques have been established to all three of our satisfaction. A typical data-taking session will run from about 7pm to midnight, which includes time for setup and teardown. Some data-taking sessions will be pre-dawn instead of in the evening (e.g., from about 3am to 7am).
+All three of us need to be fully cognizant and responsible for the results that we produce. This means that we will (outside of regular meeting times) be independently doing analyses of the data we have taken. Also, all three of us do not need to be present for all data-taking sessions, so there will be data-taking sessions consisting of just pairs of us taking additional data once the techniques have been established to all three of our satisfaction. A typical data-taking session will run from about 7pm to midnight, which includes time for the [setup and teardown](./setup-teardown.html) procedures. Some data-taking sessions will be pre-dawn instead of in the evening (e.g., from about 3am to 7am).
 
 ### Phases
 
