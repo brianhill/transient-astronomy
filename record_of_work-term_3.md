@@ -17,5 +17,5 @@ Transient Astronomy [home page](./)
 
 ### Week 2 &mdash; Analyze First Observations
 
-* 2022-11-03 &mdash; Use Trustees visit as an opportunity to practice [setup and teardown](./equipment/setup_and_teardown.html) procedures
+* 2022-11-03 &mdash; Use Trustee Mark Taylor's visit (joined by Ryan) as an opportunity to practice the [setup and teardown procedure](./equipment/SetupAndTeardownProcedure.pdf)
 * 2022-11-05 &mdash; Use ccdproc to calibrate the lights in the 2022-10-2425 data

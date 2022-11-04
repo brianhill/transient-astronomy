@@ -1,6 +1,6 @@
 ## Setup and Teardown Procedures
 
-*An outline of the essential steps for preparing for and mopping up after an observing run.*
+*An outline of the essential steps for preparing for an observing run and mopping up afterwards*
 
 ### Before Going Up
 
@@ -66,17 +66,23 @@
 
 * In the Camera tab, hit "Disconnect"
 * The preceding step should also cause the filter wheel, the autoguider, and the focuser to disconnect
+
+#### Power-Down Sequence for TheSky Fusion
+
+* Quit TheSkyX app running on the TheSky Fusion
+* Wirelessly copy images from TheSky Fusion to laptop (alternatively, images can be copied onto a USB stick)
+* Use menu item on TheSkyFusion desktop screen to power down TheSkyFusion (you will know TheSky Fusion has powered down when you lose its wifi)
 * Deactivate the Jackery that provides dome power
 
 #### Cover the Telescope
 
 * Replace metal covers over primary mirror (again with extreme care)
-* Add three shrouds (over secondary mirror, over trusses, and over the front of the telescope)
+* Replace three shrouds (over secondary mirror, over trusses, and over the front of the telescope)
 * Replace plastic bag (using masking tape to close off avenues for dust)
 * Replace sheet
 * Replace patio chair cover &mdash; handle goes to south and drawstring goest to north
 * Tighten drawstring and tie it to the counterweight shaft
-* Buckle the snap buckle
+* Buckle the patio chair cover's snap buckle
 
 #### Prepare for Departure
 

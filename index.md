@@ -40,7 +40,7 @@ Because we will be limited by Moon, weather conditions, and our general availabi
 
 ### Project Activities
 
-All three of us need to be fully cognizant and responsible for the results that we produce. This means that we will (outside of regular meeting times) be independently doing analyses of the data we have taken. Also, all three of us do not need to be present for all data-taking sessions, so there will be data-taking sessions consisting of just pairs of us taking additional data once the techniques have been established to all three of our satisfaction. A typical data-taking session will run from about 7pm to midnight, which includes time for the [setup and teardown](./setup_and_teardown.html) procedures. Some data-taking sessions will be pre-dawn instead of in the evening (e.g., from about 3am to 7am).
+All three of us need to be fully cognizant and responsible for the results that we produce. This means that we will (outside of regular meeting times) be independently doing analyses of the data we have taken. Also, all three of us do not need to be present for all data-taking sessions, so there will be data-taking sessions consisting of just pairs of us taking additional data once the techniques have been established to all three of our satisfaction. A typical data-taking session will run from about 7pm to midnight, which includes time for the [setup and teardown procedure](./equipment/SetupAndTeardownProcedure.pdf). Some data-taking sessions will be pre-dawn instead of in the evening (e.g., from about 3am to 7am).
 
 ### Phases
 
@@ -57,7 +57,7 @@ Our analysis will involve establishing a data-processing pipeline in Python whic
 
 ## Grading / Evaluation
 
-* Observational Work &mdash; 25% &mdash; This will be comprised of observatory [setup and teardown](./equipment/setup_and_teardown.html) work as well as approximately 14 data-taking sessions
-* Analytical Work &mdash; 25% &mdash; This will be comprised of data processing using Python packages
+* Observational Work &mdash; 25% &mdash; This will be comprised of approximately 14 data-taking sessions
+* Analytical Work &mdash; 25% &mdash; This is the data processing using Python packages
 * Scientific Record-Keeping &mdash; 25% &mdash; Records should include: (a) Target Selection Criteria, (b) Listings of Available Targets and their properties, (c) Conditions of Data-Taking, (d) Factors in Data-Processing
 * Project Report and Presentation &mdash; 25% &mdash; We will jointly produce a project report. If our results are sufficiently significant, our project report will be submitted as a paper to a refereed journal (such as the Journal of the AAVSO or the Astronomical Society of the Pacific). We will also present our results to the Deep Springs community as a standalone presentation or as a lecture in the lecture series that is under discussion by CurCom.
