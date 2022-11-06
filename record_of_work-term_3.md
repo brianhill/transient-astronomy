@@ -17,5 +17,5 @@ Transient Astronomy [home page](./)
 
 ### Week 2 &mdash; Analyze First Observations
 
-* 2022-11-03 &mdash; Used Trustee Mark Taylor's visit (joined by Ryan) as an opportunity to practice our [setup and teardown procedure](./equipment/SetupAndTeardownProcedure.pdf)
+* 2022-11-03 &mdash; Did small demonstration for TDS (Mark and Ryan were guests). Sofia and Luke led deployment of scope, observation, and shut down, using our [setup and teardown procedure](./equipment/SetupAndTeardownProcedure.pdf)
 * 2022-11-05 &mdash; Used ccdproc for [image calibration](./software/ImageCalibration.pdf) of our 2022-10-2425 data
