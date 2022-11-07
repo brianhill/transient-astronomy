@@ -4,9 +4,9 @@
 
 ### Before Going Up
 
-* Assemble keys, headlamps, and the laptop that will control the equipment
+* Assemble keys and the laptop that will control the equipment, including its power adaptor
 
-### Setup
+### Setting Up
 
 #### After Arrival
 
@@ -17,7 +17,7 @@
 * Clip dome doorway closed from inside
 * Put the north shutter down
 
-#### Uncover the Telescope
+#### Uncovering the Telescope
 
 * Remove patio chair cover (there is a drawstring that has to be untied and loosened and there is a plastic snap buckle that has to be unbuckled)
 * Remove sheet
@@ -25,56 +25,56 @@
 * Remove three shrouds from telescope
 * Remove metal covers over primary mirror (use extreme care &mdash; nothing stops the metal covers from falling into the primary)
 
-#### Power Up and Connect to TheSky Fusion
+#### Powering Up and Connecting to TheSky Fusion
 
 * Activate Jackery that provides dome power
 * Connect laptop to TheSky Fusion local wifi
 * Connect laptop to TheSky Fusion desktop using VNC
 
-#### Connect TheSky Fusion to the Mount and Home the Mount
+#### Connecting TheSky Fusion to the Mount and Homing the Mount
 
 * In the Telescope tab, under Start Up, hit "Connect Telescope" (this actually connects to the mount)
 * Telescope will warn that it is not homed &mdash; home telescope
 
-#### Connect TheSkyFusion to the Imaging Train
+#### Connecting TheSky Fusion to the Imaging Train
 
 * In the Camera tab, connect to camera
 * The preceding step should also cause the filter wheel, the autoguider, and the focuser to connect
 
-#### Check Pointing and Focus
+#### Checking Pointing and Focus
 
 * In the Find tab's "Search for:" field, type in an easy target (such as Alcyone, the brightest of the Pleiades)
 * After checking that target's altitude is positive (above horizon), slew telescope to target 
 * Within the Camera tab is a Focus tab &mdash; use @Focus3 to achieve focus &mdash; sanity-check by repeating
 
-#### Obtain Lights
+#### Obtaining Lights
 
 *The planning and execution of the scientific part of an observation run is outside the scope of this document.*
 
-### Teardown
+### Tearing Down
 
-#### Park the Mount and Disconnect TheSky Fusion from the Mount
+#### Parking the Mount and Disconnecting TheSky Fusion from the Mount
 
 * In the Telescope tab, under the Shut Down dropdown list, hit "Park"
 * In the same list, hit "Disconnect Telescope"
 
-#### Obtain Flats, Biases, and Darks
+#### Obtaining Flats, Biases, and Darks
 
 *The planning and execution of the scientific part of an observation run is outside the scope of this document.*
 
-#### Disconnect the TheSky Fusion from the Imaging Train
+#### Disconnecting the TheSky Fusion from the Imaging Train
 
 * In the Camera tab, hit "Disconnect"
 * The preceding step should also cause the filter wheel, the autoguider, and the focuser to disconnect
 
-#### Power-Down Sequence for TheSky Fusion
+#### Powering Down TheSky Fusion
 
 * Quit TheSkyX app running on the TheSky Fusion
 * Wirelessly copy images from TheSky Fusion to laptop (alternatively, images can be copied onto a USB stick)
-* Use menu item on TheSkyFusion desktop screen to power down TheSkyFusion (you will know TheSky Fusion has powered down when you lose its wifi)
-* Deactivate the Jackery that provides dome power
+* Use menu item on TheSky Fusion desktop screen to power down TheSky Fusion (you will know TheSky Fusion has powered down when you lose its wifi)
+* Wait another 15 seconds and then deactivate the Jackery that provides dome power
 
-#### Cover the Telescope
+#### Covering the Telescope
 
 * Replace metal covers over primary mirror (again with extreme care)
 * Replace three shrouds (over secondary mirror, over trusses, and over the front of the telescope)
@@ -84,7 +84,7 @@
 * Tighten drawstring and tie it to the counterweight shaft
 * Buckle the patio chair cover's snap buckle
 
-#### Prepare for Departure
+#### Preparing for Departure
 
 * Put the north shutter up
 * Unclip the dome doorway from inside
