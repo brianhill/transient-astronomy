@@ -15,7 +15,12 @@ Transient Astronomy [home page](./)
 * 2022-10-25 &mdash; Created [Development Environment](./software/development_environment.html) consisting of Anaconda Python distribution, TextMate 2.0, and Xcode Command-Line Developer Tools (for git) &mdash; Created GitHub accounts &mdash; Created clones of this git repository and did first shared edits
 * 2022-10-29 &mdash; Made first Jupyter notebook and installed [ccdproc](https://ccdproc.readthedocs.io/en/latest/)
 
-### Week 2 &mdash; Analyze First Observations
+### Week 2 &mdash; Establish Image Calibration Part of Pipeline
 
 * 2022-11-03 &mdash; Did small demonstration for TDS (Mark and Ryan were guests). Sofia and Luke led deployment of scope, observation, and shut down, using our [setup and teardown procedure](./equipment/SetupAndTeardownProcedure.pdf)
 * 2022-11-05 &mdash; Used ccdproc for [image calibration](./software/ImageCalibration.pdf) of our 2022-10-2425 data
+* 2022-11-06 &mdash; Created a test notebook to validate our image calibration code
+
+### Week 3 &mdash; Establish Image Alignment Part of Pipeline
+
+* 2022-11-09 &mdash; 
