@@ -23,4 +23,4 @@ Transient Astronomy [home page](./)
 
 ### Week 3 &mdash; Establish Image Alignment Part of Pipeline
 
-* 2022-11-09 &mdash; 
+* 2022-11-09 &mdash; Study [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment
