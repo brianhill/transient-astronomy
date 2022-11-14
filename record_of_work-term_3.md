@@ -25,6 +25,7 @@ Transient Astronomy [home page](./)
 
 * 2022-11-13 &mdash; Used [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment
 
-### Week 4 &mdash; Image Stretching
+### Week 4 &mdash; Image Normalization and Stretching
 
-* 2022-11-14 &mdash; Experiment with [astropy visualization](https://astroalign.quatrope.org/en/latest/) package for image stretching
+* 2022-11-14 &mdash; Used the [astropy visualization](https://astroalign.quatrope.org/en/latest/) package to normalize and stretch the images
+* 2022-11-16 &mdash; Combine all the aligned lights and apply aperture-annulus photometry using photutils
