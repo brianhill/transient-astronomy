@@ -19,13 +19,13 @@ Transient Astronomy [home page](./)
 
 * 2022-11-03 &mdash; Did small demonstration for TDS (Mark and Ryan were guests). Sofia and Luke led deployment of scope, observation, and shut down, using our [setup and teardown procedure](./equipment/SetupAndTeardownProcedure.pdf)
 * 2022-11-05 &mdash; Used ccdproc for [image calibration](./resources/ImageCalibration.pdf) of our 2022-10-2425 data
-* 2022-11-06 &mdash; Created a test notebook to validate our image calibration code
+* 2022-11-06 &mdash; Created a test notebook to thoroughly validate our image calibration code
 
 ### Week 3 &mdash; Establish Image Alignment Part of Pipeline
 
 * 2022-11-13 &mdash; Used [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment
 
-### Week 4 &mdash; Image Normalization and Stretching
+### Week 4 &mdash; Establish Visualization Part of Pipeline &mdash; Start Photometry
 
-* 2022-11-14 &mdash; Used the [astropy visualization](https://astroalign.quatrope.org/en/latest/) package to normalize and stretch the images
+* 2022-11-14 &mdash; Used [astropy visualization](https://astroalign.quatrope.org/en/latest/) to normalize and stretch the images for visual examination
 * 2022-11-16 &mdash; Combine all the aligned lights and apply aperture-annulus photometry using photutils
