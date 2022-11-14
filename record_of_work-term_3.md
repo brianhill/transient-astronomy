@@ -23,4 +23,8 @@ Transient Astronomy [home page](./)
 
 ### Week 3 &mdash; Establish Image Alignment Part of Pipeline
 
-* 2022-11-09 &mdash; Study [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment
+* 2022-11-13 &mdash; Used [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment
+
+### Week 4 &mdash; Image Stretching
+
+* 2022-11-14 &mdash; Experiment with [astropy visualization](https://astroalign.quatrope.org/en/latest/) package for image stretching

@@ -38,6 +38,8 @@ In a Jupyter notebook, we will follow the [Getting Started](https://ccdproc.read
 
 We plan to use [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment.
 
+`conda install -c conda-forge astroalign`
+
 ### photutils
 
 We plan to use [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) for aperture-annulus photometry.
