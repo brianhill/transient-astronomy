@@ -42,7 +42,7 @@ We will use [astroalign](https://astroalign.quatrope.org/en/latest/) for alignme
 
 ### astropy.visualization
 
-
+We will use [astropy.visualization](https://docs.astropy.org/en/stable/visualization/index.html) to examine imagery at various stages of the data processing pipeline.
 
 ### photutils
 
