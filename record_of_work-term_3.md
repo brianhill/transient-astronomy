@@ -2,7 +2,9 @@
 
 Transient Astronomy [home page](./)
 
-*This [moon phases](./resources/MoonPhases.png) table should be helpful for planning observing sessions.*
+*An [index of our analyses](./analyses/index.html)*
+
+*A [moon phases table](./resources/MoonPhasesTable.png) for planning observing sessions*
 
 ### Week 0 &mdash; First Observations
 
