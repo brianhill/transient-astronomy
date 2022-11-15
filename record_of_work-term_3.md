@@ -28,4 +28,11 @@ Transient Astronomy [home page](./)
 ### Week 4 &mdash; Establish Visualization Part of Pipeline &mdash; Start Photometry
 
 * 2022-11-14 &mdash; Used [astropy visualization](https://astroalign.quatrope.org/en/latest/) to normalize and stretch the images for visual examination
-* 2022-11-16 &mdash; Combine all the aligned lights and apply aperture-annulus photometry using photutils
+* 2022-11-16 &mdash; Combine all the aligned lights and apply aperture-annulus photometry using [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) and in particular [photutils.aperture](https://photutils.readthedocs.io/en/stable/aperture.html).
+
+## To-Do
+
+*Various loose ends*
+
+* Tests of our usages of astroalign
+* Experimentation with better image-stretching routines
