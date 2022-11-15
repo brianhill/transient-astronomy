@@ -44,3 +44,7 @@ Took 15 more 60-second exposures.
 #### Improvement over the course of the evening
 
 Is this because the atmosphere became more stable or because the altitude increased to 77&deg; or both?
+
+### Analyses
+
+No analyses performed.

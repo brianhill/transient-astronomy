@@ -29,3 +29,7 @@ On a third and fourth try of refocusing, @Focus3 brought us to 6498 and 6589. Th
 11:57pm 60 one-second biases taken
 
 This night we only took half and hour of total exposure time. The images looked clearer than the first night of observing. The target was at a higher altitude and the temperature was cooler
+
+### Analyses
+
+[Brian's Analysis](https://github.com/brianhill/transient-astronomy/blob/master/analyses/2022-10-2425-SN_2022vqz/analysis-brian.ipynb)
