@@ -4,7 +4,7 @@
 
 ### Observation Planning
 
-See also the notes on the [first evening of data-taking](../2020-10-2122-SN_2022vqz/) on this supernova.
+See also the notes on the [first evening of data-taking](../2022-10-2122-SN_2022vqz/) on this supernova.
 
 ### Observation Notes
 
