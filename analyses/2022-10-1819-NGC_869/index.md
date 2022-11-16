@@ -10,7 +10,7 @@
 
 See observing log in observatory control room.
 
-2x2 binning (confirm this!)
+2x2 binning (confirm this, but pretty sure)
 
 2x2 binning results in a plate scale of 0.478 arcseconds / pixel (per our [Plate Scale Calculator](../../equipment/PlateScaleCalculator.pdf))
 
