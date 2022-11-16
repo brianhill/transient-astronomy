@@ -48,5 +48,4 @@ We will use [astropy.visualization](https://docs.astropy.org/en/stable/visualiza
 
 We plan to use [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) for aperture-annulus photometry.
 
-`conda install -c conda_forge photutils`
-
+`conda install -c conda-forge photutils`
