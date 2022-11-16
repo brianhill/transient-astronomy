@@ -30,6 +30,7 @@ Transient Astronomy [home page](./)
 ### Week 4 &mdash; Establish Visualization Part of Pipeline &mdash; Start Photometry
 
 * 2022-11-14 &mdash; Used [astropy visualization](https://astroalign.quatrope.org/en/latest/) to normalize and stretch the images for visual examination
+* 2022-11-15 &mdash; Brian presented ([slide deck](https://brianhill.github.io/resources/2022-11-15-BRDSC.pdf)) [Presentation to The Basin and Range Dark Sky Cooperative (BRDSC)](https://brdarkskies.org/about/), November 15th, 2022 &mdash; Will likely have an on-site assessment by Dan Duriscoe, Principal at [Night Sky Metrics](https://nightskymetrics.com)
 * 2022-11-16 &mdash; Combine all the aligned lights and apply aperture-annulus photometry using [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) and in particular [photutils.aperture](https://photutils.readthedocs.io/en/stable/aperture.html).
 
 ## To-Do
