@@ -18,7 +18,7 @@ DSS2 Red:
 
 [Identified 2MASS J02192514+5709480](http://simbad.cds.unistra.fr/simbad/sim-id?Ident=%406340548&Name=2MASS%20J02192514%2b5709480&submit=submit)
 
-![2 Stars Identified](./2-stars-identified.png)
+![2 Stars Identified](./DeepSprings-CBB-Zoomed-2-Stars-Identified.png)
 
 ### How this is done in IDL
 
