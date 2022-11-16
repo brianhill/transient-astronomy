@@ -10,7 +10,9 @@ See also the notes on the [first evening of data-taking](../2022-10-2122-SN_2022
 
 2022-10-2425: Sofia, Brian, Luke
 
-10:40pm Started 15 60-second exposures 4x4 binning 
+10:40pm Started 15 60-second exposures 4x4 binning
+
+4x4 binning results in a plate scale of 0.955 arcseconds / pixel (per our [Plate Scale Calculator](../../equipment/PlateScaleCalculator.pdf))
 
 Temperature was 8.8&deg;. Our best possible focus was 6850, based on two runs of @Focus3.
 
@@ -33,3 +35,7 @@ This night we only took half and hour of total exposure time. The images looked 
 ### Analyses
 
 [Brian's Analysis](https://github.com/brianhill/transient-astronomy/blob/master/analyses/2022-10-2425-SN_2022vqz/analysis-brian.ipynb)
+
+### PixInsight Stretch
+
+![PixInsight Stretch](./PixInsightStretch.png)

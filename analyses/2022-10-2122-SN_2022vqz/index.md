@@ -41,6 +41,8 @@ Took 15 more 60-second exposures.
 
 4x4 binning
 
+4x4 binning results in a plate scale of 0.955 arcseconds / pixel (per our [Plate Scale Calculator](../../equipment/PlateScaleCalculator.pdf))
+
 #### Improvement over the course of the evening
 
 Is this because the atmosphere became more stable or because the altitude increased to 77&deg; or both?
