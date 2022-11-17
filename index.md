@@ -10,7 +10,7 @@ Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 
 ## Record of Work
 
-A record of our tasks and progress is being maintained:
+A detailed record of our progress and next steps are being actively maintained:
 
 * [Record of Work](./record_of_work-term_3.html)
 
