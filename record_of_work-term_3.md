@@ -31,7 +31,21 @@ Transient Astronomy [home page](./)
 
 * 2022-11-14 &mdash; Used [astropy visualization](https://astroalign.quatrope.org/en/latest/) to normalize and stretch the images for visual examination
 * 2022-11-15 &mdash; Brian presented ([slide deck](https://brianhill.github.io/resources/2022-11-15-BRDSC.pdf)) [Presentation to The Basin and Range Dark Sky Cooperative (BRDSC)](https://brdarkskies.org/about/), November 15th, 2022 &mdash; Will likely have an on-site assessment by Dan Duriscoe, Principal at [Night Sky Metrics](https://nightskymetrics.com)
-* 2022-11-16 &mdash; Combine all the aligned lights and apply aperture-annulus photometry using [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) and in particular [photutils.aperture](https://photutils.readthedocs.io/en/stable/aperture.html).
+* 2022-11-16 &mdash; Combine all the aligned lights found all the stars using [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) 
+
+### Week 5 &mdash; Improve Visualization Part of Pipeline &mdash; Continue Photometry 
+
+* 2022-11-19 &mdash; Apply aperture-annulus photometry using [photutils.aperture](https://photutils.readthedocs.io/en/stable/aperture.html) &mdash; Write a routine that takes a numpy array and does row-wise subtraction of median values &mdash; Improve LogStretch routine
+* 2022-11-19 &mdash; Observing session (Brian, Luke, and Sofia)
+* 2022-11-23 &mdash; Observing session (Luke and Sofia)
+
+### Week 6
+
+* 2022-11-27 &mdash; Work with Dan Duriscoe to determine local sky brightness
+
+### Week 7
+
+### Week 8
 
 ## To-Do
 
@@ -39,3 +53,6 @@ Transient Astronomy [home page](./)
 
 * Tests of our usages of astroalign
 * Experimentation with better image-stretching routines
+* Write a subtraction routine for removing the median value of a row
+* Write (or learn to use the LogStretch routine astropy.visualization) so that a minimum and maximum ADU value can be specified (and maps to black and white, respectively)
+
