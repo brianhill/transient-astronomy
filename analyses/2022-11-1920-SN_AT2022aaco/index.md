@@ -4,7 +4,7 @@
 
 ### Observation Planning
 
-So far (evening of Nov. 19, 2022), the [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF22abtlbcn) is showing one detection in r-band at approximately magnitude 18.7.
+So far (evening of Nov. 19, 2022), the [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF22abtlbcn) [(screenshot)](./Screenshot-ALeRCE.png) is showing one detection in r-band at approximately magnitude 18.7.
 
 The object is about 10 arcseconds north of host galaxy UGC 12027, also known as PGC 68769.
 
