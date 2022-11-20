@@ -12,5 +12,22 @@ The object is near the zenith in the north above Polaris. It transits at 7:20pm 
 
 ### Observation Notes
 
+Started about 8:40pm (MST).
+
+@Focus3 6529. 3.3&deg;.
+
+Auto-guider at 2s and there are good stars in frame.
+
+@Focus3 at 9:38pm 6701. 2.4&deg;.
+
+@Focus3 at 9:40pm 6931.
+
+@Focus3 at 9:42pm (forced it to restart at 6700) 6693.
+
+30 each of 60-second exposures in g' and r', sub-framed by half and binned 2x2.
+
+@Focus3 at 10:58pm 1.1&deg; 6562. <-- one  of the best @Focus3 curves, so we kept it
+
+Repeat 30 each of 60-second exposures in g' and r', sub-framed by half and binned 2x2.
 
 ### Analyses
