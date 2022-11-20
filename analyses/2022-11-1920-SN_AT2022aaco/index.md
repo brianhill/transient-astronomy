@@ -2,6 +2,10 @@
 
 *First attempt to image a supernova while it is still brightening*
 
+*Imaging in g' and r'*
+
+*Sofia, Luke, and Brian*
+
 ### Observation Planning
 
 So far (evening of Nov. 19, 2022), the [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF22abtlbcn) [(screenshot)](./Screenshot-ALeRCE.png) is showing one detection in r-band at approximately magnitude 18.7.
@@ -29,5 +33,7 @@ Auto-guider at 2s and there are good stars in frame.
 @Focus3 at 10:58pm 1.1&deg; 6562. <-- one  of the best @Focus3 curves, so we kept it
 
 Repeat 30 each of 60-second exposures in g' and r', sub-framed by half and binned 2x2.
+
+Due to lateness of the hour, postponed calibration images to following night.
 
 ### Analyses

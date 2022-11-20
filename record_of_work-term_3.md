@@ -33,15 +33,14 @@ Transient Astronomy [home page](./)
 * 2022-11-15 &mdash; Brian presented ([slide deck](https://brianhill.github.io/resources/2022-11-15-BRDSC.pdf)) [Presentation to The Basin and Range Dark Sky Cooperative (BRDSC)](https://brdarkskies.org/about/), November 15th, 2022 &mdash; Will likely have an on-site assessment by Dan Duriscoe, Principal at [Night Sky Metrics](https://nightskymetrics.com)
 * 2022-11-16 &mdash; Combined all the aligned lights and then found all the stars using [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) 
 
-### Week 5 &mdash; Improve Visualization Part of Pipeline &mdash; Continue Photometry 
+### Week 5 &mdash; Improve Visualization Part of Pipeline &mdash; Attempt first g' and r' Observations of Brightening Supernova
 
-* 2022-11-19 &mdash; Observed [Supernova AT2022aaco](./analyses/2022-11-1920-SN_AT2022aaco/index.html) session (Brian, Luke, and Sofia)
-* 2022-11-20 &mdash; Observed [Supernova AT2022aaco](./analyses/2022-11-2021-SN_AT2022aaco/index.html) session (Brian and Ben)
+* 2022-11-19 &mdash; Observed brightening [Supernova AT2022aaco](./analyses/2022-11-1920-SN_AT2022aaco/index.html) (Brian, Luke, and Sofia)
+* 2022-11-20 &mdash; Observed brightening [Supernova AT2022aaco](./analyses/2022-11-2021-SN_AT2022aaco/index.html) (Brian and Ben)
 * 2022-11-21 &mdash; Apply aperture-annulus photometry using [photutils.aperture](https://photutils.readthedocs.io/en/stable/aperture.html) &mdash; Write a routine that takes a numpy array and does row-wise subtraction of median values &mdash; Improve LogStretch routine
-* 2022-11-23 &mdash; Observing session (Luke and Sofia)
+* 2022-11-23 &mdash; Observing session (Luke and Sofia) <== weather for 2022-11-24 looks more promising
 
 ### Week 6
-
 
 * 2022-11-27 &mdash; Work with Dan Duriscoe to determine local sky brightness
 
