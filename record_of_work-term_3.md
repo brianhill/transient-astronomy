@@ -35,11 +35,13 @@ Transient Astronomy [home page](./)
 
 ### Week 5 &mdash; Improve Visualization Part of Pipeline &mdash; Continue Photometry 
 
-* 2022-11-19 &mdash; Apply aperture-annulus photometry using [photutils.aperture](https://photutils.readthedocs.io/en/stable/aperture.html) &mdash; Write a routine that takes a numpy array and does row-wise subtraction of median values &mdash; Improve LogStretch routine
-* 2022-11-19 &mdash; Observing session (Brian, Luke, and Sofia)
+* 2022-11-19 &mdash; Observed [Supernova AT2022aaco](./analyses/2022-11-1920-SN_AT2022aaco/index.html) session (Brian, Luke, and Sofia)
+* 2022-11-20 &mdash; Observed [Supernova AT2022aaco](./analyses/2022-11-2021-SN_AT2022aaco/index.html) session (Brian and Ben)
+* 2022-11-21 &mdash; Apply aperture-annulus photometry using [photutils.aperture](https://photutils.readthedocs.io/en/stable/aperture.html) &mdash; Write a routine that takes a numpy array and does row-wise subtraction of median values &mdash; Improve LogStretch routine
 * 2022-11-23 &mdash; Observing session (Luke and Sofia)
 
 ### Week 6
+
 
 * 2022-11-27 &mdash; Work with Dan Duriscoe to determine local sky brightness
 
