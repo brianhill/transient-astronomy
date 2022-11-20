@@ -1,4 +1,4 @@
-## sn2022vqz
+## SN 2022vqz on 2022-10-2425
 
 *Second evening of data for [SN 2022vqz](https://www.rochesterastronomy.org/supernova.html#2022vqz)*
 
