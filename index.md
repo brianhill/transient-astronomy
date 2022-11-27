@@ -8,11 +8,12 @@ Mentor/Supervisor: [Prof. Brian Hill](../index.html)
 
 Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 
-## Record of Work
+## Quick Links
 
-A detailed record of our progress and next steps are being actively maintained:
-
+* [Index to Targets and Observations/Analyses](./analyses/index.html)
 * [Record of Work](./record_of_work-term_3.html)
+* [CMC](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) and [ECMWF](https://www.yr.no/en/forecast/graph/2-5346035/United%20States/California/Inyo%20County/The%20Elephant) forecasts
+* [Moon Phases Table](./resources/MoonPhasesTable.png)
 
 ## Syllabus
 
@@ -25,8 +26,9 @@ This directed study will address the following research questions:
 1. In the dark skies and high altitude at the [Deep Springs Observatory](../deep-springs-observatory/index.html), what observational techniques and conditions make us the most sensitive and accurate that we can we be in detecting and estimating the changes in brightness of stars possibly as dim as magnitude 20 with the observatory's relatively modest (250mm) telescope? We fully expect to be able to get to magnitude 19. NB: larger numbers are dimmer in the astronomical magnitude system. Before this directed study even begins, we have become confident that our equipment can do photometry on magnitude 18 stars.
 2. What are the best practices in the analysis of the data taken in our observations that again push the brightness limits of our setup?
 3. What transient targets are of the most interest given our data-taking and analysis capability? We believe that supernovae identified by the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu) are within our grasp and that supernovae light curves taken over many nights with our gear will be of sufficient interest to astrophysics researchers that we can contribute our results to refereed publications. Supernovae have various brightnesses with the brightest ones having peak luminosity brighter than magnitude 17 (see the Rochester Astronomy of Science's compendium of [Latest Supernovae](https://www.rochesterastronomy.org/supernova.html)). In the unlikely event that research-quality data on supernovae prove to be beyond what we can get from our setup, we will pursue easier targets (e.g., binary star systems and transiting exoplanets).
+4. How does this work inform preparation for the Vera C. Rubin Observatory which is less than two years from its initial large-scale synoptic surveys? For example, can small telescopes do searches for very short time-scale transients (which is one of the signatures for [SETI](https://jradavenport.github.io/seti_with_lsst2023/)?
 
-These questions are mostly in the realm of experimental technique as our setup is, as we begin this study, only beginning to be proven.
+These questions are necessarily mostly in the realm of experimental technique since our setup is, as we begin this study, only beginning to be proven.
 
 ## Schedule and Work Plan
 

@@ -2,15 +2,11 @@
 
 Transient Astronomy [home page](./)
 
-*An [index of our analyses](./analyses/index.html)*
-
-*A [moon phases table](./resources/MoonPhasesTable.png) for planning observing sessions*
-
 ### Week 0 &mdash; First Observations
 
-* 2022-10-18 &mdash; Observed [NGC 869](./analyses/2022-10-1819-NGC_869/index.html)
-* 2022-10-21 &mdash; Observed [Supernova 2022vqz](./analyses/2022-10-2122-SN_2022vqz/index.html)
-* 2022-10-24 &mdash; Observed [Supernova 2022vqz](./analyses/2022-10-2425-SN_2022vqz/index.html)
+* 2022-10-18 &mdash; Observed [NGC 869](./analyses/NGC_869/2022-10-1819-NGC_869/index.html)
+* 2022-10-21 &mdash; Observed [Supernova 2022vqz](./analyses/SN_2022vqz/2022-10-2122-SN_2022vqz/index.html)
+* 2022-10-24 &mdash; Observed [Supernova 2022vqz](./analyses/SN_2022vqz/2022-10-2425-SN_2022vqz/index.html)
 
 ### Week 1 &mdash; Start Development of Analysis Pipeline
 
@@ -35,14 +31,15 @@ Transient Astronomy [home page](./)
 
 ### Week 5 &mdash; Improve Visualization Part of Pipeline &mdash; Attempt first g' and r' Observations of Brightening Supernova
 
-* 2022-11-19 &mdash; Observed brightening [Supernova AT2022aaco](./analyses/2022-11-1920-SN_AT2022aaco/index.html) (Brian, Luke, and Sofia)
-* 2022-11-20 &mdash; Observed brightening [Supernova AT2022aaco](./analyses/2022-11-2021-SN_AT2022aaco/index.html) (Brian and Ben)
+* 2022-11-19 &mdash; Observed candidate [Supernova AT2022aaco](./analyses/SN_AT2022aaco/2022-11-1920-SN_AT2022aaco/index.html) (Brian, Luke, and Sofia)
+* 2022-11-20 &mdash; Observed candidate [Supernova AT2022aaco](./analyses/SN_AT2022aaco/2022-11-2021-SN_AT2022aaco/index.html) (Brian and Ben)
 * 2022-11-21 &mdash; Apply aperture-annulus photometry using [photutils.aperture](https://photutils.readthedocs.io/en/stable/aperture.html) &mdash; Write a routine that takes a numpy array and does row-wise subtraction of median values &mdash; Improve LogStretch routine
-* 2022-11-23 &mdash; Observing session (Luke and Sofia) <== weather for 2022-11-24 looks more promising
+* 2022-11-23 &mdash; Observing session (Luke and Sofia) &mdash; Encountered instrument problems(!)
 
 ### Week 6
 
-* 2022-11-27 &mdash; Work with Dan Duriscoe to determine local sky brightness
+* 2022-11-27 &mdash; POSTPONED: Work with Dan Duriscoe to determine local sky brightness
+* 2022-11-29 &mdash; [SN_2022abik](./analyses/SN_2022abik/index.html)
 
 ### Week 7
 
