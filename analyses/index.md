@@ -6,7 +6,7 @@
 
 #### Observations/Analyses
 
-* [2022-11-2728](./SN 2022abik/2022-11-2728-SN_2022abik/index.html)
+* [2022-11-2930](./SN 2022abik/2022-11-2930-SN_2022abik/index.html)
 
 ### SN AT2022aaco
 
