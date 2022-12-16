@@ -41,11 +41,13 @@ See also [Record of Work - Term 4](./record_of_work-term_4.html)
 ### Week 6 &mdash; Selected 2nd Brightening Supernova
 
 * 2022-11-27 &mdash; POSTPONED: Work with Dan Duriscoe to determine local sky brightness
-* 2022-11-29 &mdash; [SN_2022abik](./analyses/SN_2022abik/index.html)
+* 2022-11-29 &mdash; [SN 2022abik](./analyses/SN_2022abik/index.html) (Brian)
 
 ### Week 7 &mdash; Summarized and Presented Work to Date
 
 * 2022-12-03 &mdash; Calibration runs for SN 2022abik
 * 2022-12-08 &mdash; Delivered [Transient Astronomy at Deep Springs-Part I](./presentations/2022-12-08-TransientAstronomyAtDeepSprings-PartI.pdf) as a Deep Springs community address
 
-### Week 8 &mdash;
+### Week 8 &mdash; 2nd Brightening Supernova
+
+* 2022-12-14 &mdash; 2nd Observing session for [SN 2022abik](./analyses/SN_2022abik/index.html) (Sofia, Luke, and Brian)

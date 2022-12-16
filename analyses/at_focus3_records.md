@@ -1,5 +1,9 @@
 ## Reverse Chronological Listing of @Focus3 Runs
 
+### 2022-12-1415
+
+* 1.7&deg;, 10s, 2x2, g' &mdash; 6639
+
 ### 2022-11-2930
 
 * 2.9&deg;, 10s, 2x2, r' &mdash; 6591 &mdash; very good shape, but FWHM has deteriorated to 9.8px

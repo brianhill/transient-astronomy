@@ -14,7 +14,7 @@ I was toggling back and forth between apps and TheSkyX crashed. The last 2 to 3 
 
 ### Calibration Photos
 
-The calibration photos were taken on 2022-11-30.
+The calibration photos are in 2022-11-3001.
 
 The bias photos should be discarded in favor of the 1-second and 30-second darks. It turns out TheSkyX ignores the exposure time
 set on bias photos and does some very rapid exposure. I would not have noticed this if I had not needed some 30-second
