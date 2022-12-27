@@ -11,7 +11,7 @@ Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 ## Quick Links
 
 * [Index to Targets and Observations/Analyses](./analyses/index.html)
-* [Record of Work](./record_of_work-term_3.html)
+* [Record of Work - Term 4](./record_of_work-term_4.html)
 * [CMC](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) and [ECMWF](https://www.yr.no/en/forecast/graph/2-5346035/United%20States/California/Inyo%20County/The%20Elephant) forecasts
 * [Moon Phases &mdash; 2023 &mdash; First Half](./resources/MoonPhases-2023H1.png)
 

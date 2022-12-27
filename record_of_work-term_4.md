@@ -4,8 +4,21 @@ Transient Astronomy [home page](./)
 
 See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
-### Term 3-4 Break
+### Week 0 (Term 3-4 Break &mdash; Jan. 1-7)
 
+### Week 1 (Jan. 8-14)
+
+### Week 2 (Jan 15-21)
+
+### Week 3 (Jan. 22-28)
+
+### Week 4 (Jan 29-Feb. 4)
+
+### Week 5 (Feb. 5-11)
+
+### Week 6 (Feb. 12-18)
+
+### Week 7 (Feb. 19-25)
 
 ## To-Do
 
