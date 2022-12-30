@@ -4,7 +4,9 @@ Transient Astronomy [home page](./)
 
 See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
-### Week 0 (Term 3-4 Break &mdash; Jan. 1-7)
+### Term 3-4 Break
+
+* 2022-12-30 &mdash; Updated TheSkyFusion to the latest (2022-04-21) release from Software Bisque
 
 ### Week 1 (Jan. 8-14)
 
