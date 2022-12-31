@@ -12,6 +12,10 @@ Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 
 * [Index to Targets and Observations/Analyses](./analyses/index.html)
 * [Record of Work - Term 4](./record_of_work-term_4.html)
+
+### For Observation Planning
+
+* [ALeRCE ZTF Explorer query](https://alerce.online/?selectedClassifier=stamp_classifier&selectedClass=SN&probability=0.5&ndet=3&ndet=2797&ranking=1&firstmjd=59935&ra=180&dec=40&radius=216000&count=false&page=1&perPage=20&sortBy=probability&sortDesc=true)
 * [CMC](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) and [ECMWF](https://www.yr.no/en/forecast/graph/2-5346035/United%20States/California/Inyo%20County/The%20Elephant) forecasts
 * [Moon Phases &mdash; 2023 &mdash; First Half](./resources/MoonPhases-2023H1.png)
 
