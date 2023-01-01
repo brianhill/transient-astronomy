@@ -7,6 +7,8 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 ### Term 3-4 Break
 
 * 2022-12-30 &mdash; Updated TheSkyFusion to [the latest (2022-04-21) release](https://www.bisque.com/thesky-change-log/#TheSkyFusionChangeLog) from Software Bisque
+* 2022-12-31 &mdash; Meet to plan next steps on target selection and development of analysis pipeline
+* 2023-01-02 &mdash;
 
 ### Week 1 (Jan. 8-14)
 
@@ -30,4 +32,4 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 * Experimentation with better image-stretching routines
 * Write a subtraction routine for removing the median value of a row
 * Write (or learn to use the LogStretch routine astropy.visualization) so that a minimum and maximum ADU value can be specified (and maps to black and white, respectively)
-
+* Report crashes to Software Bisque
