@@ -1,29 +1,6 @@
-## Reverse Chronological Index of Targets and Observations/Analyses
+## Reverse Chronological Index of Targets
 
-### SN 2022abik
-
-* [Target](./SN_2022abik/index.html)
-
-#### Observations/Analyses
-
-* [2022-11-2930](./SN 2022abik/2022-11-2930-SN_2022abik/index.html)
-
-### SN AT2022aaco
-
-#### Observations/Analyses
-
-* [2022-11-1920](./SN_AT2022aaco/2022-11-1920-SN_AT2022aaco/index.html)
-* [2022-11-2021](./SN_AT2022aaco/2022-11-2021-SN_AT2022aaco/index.html)
-
-### SN 2022vqz
-
-#### Observations/Analyses
-
-* [2022-10-2122](./SN_2022vqz/2022-10-2122-SN_2022vqz/index.html)
-* [2022-10-2425](./SN_2022vqz/2022-10-2425-SN_2022vqz/index.html)
-
-### NGC 869 (h Persei)
-
-#### Observations/Analyses
-
-* [2022-10-1819](./NGC_869/2022-10-1819-NGC_869/index.html)
+* [SN 2022abik](./SN_2022abik/index.html)
+* [SN AT2022aaco](./SN_AT2022aaco/index.html)
+* [SN 2022vqz](./SN_2022vqz/index.html) (has our first analysis notebooks)
+* [NGC 869 (h Persei)](./NGC_869/2022-10-1819-NGC_869/index.html)

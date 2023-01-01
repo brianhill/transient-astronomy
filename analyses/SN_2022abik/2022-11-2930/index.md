@@ -1,5 +1,9 @@
 ## SN 2022abik 2022-11-2930
 
+Back to [Index](../index.html)
+
+### Observing Notes
+
 Moon is pretty bright (somewhat less than half full), and to east of target
 
 Decided to do 30 60-second exposures each in g', r', and i'
