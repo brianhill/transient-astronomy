@@ -29,5 +29,3 @@ Changed @Focus3 parameters to search a wider range and do three samples per focu
 The darks and biases were taken by Brian on the evening of Nov. 21. The 19th dark should be discarded. An additional dark was taken so that there will still be a total of 30.
 
 As of Nov. 21 the flats (1 second, 2x2 binning, half-subframed, in g' and r') still remained to be taken.
-
-### Analyses

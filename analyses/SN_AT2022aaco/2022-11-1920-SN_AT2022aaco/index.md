@@ -35,5 +35,3 @@ Auto-guider at 2s and there are good stars in frame.
 Repeat 30 each of 60-second exposures in g' and r', sub-framed by half and binned 2x2.
 
 Due to lateness of the hour, postponed calibration images to following night.
-
-### Analyses

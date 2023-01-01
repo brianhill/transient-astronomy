@@ -1,4 +1,4 @@
-## First Light
+## First Light &mdash; NGC_869 ((h Persei))
 
 *Multiple successes, culminating in imagery of the Double Cluster, with stars as dim as magnitude 18 visible*
 

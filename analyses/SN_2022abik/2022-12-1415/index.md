@@ -26,6 +26,6 @@ bias files.
 
 The 30-second darks are needed because the i' flats required 30 seconds to get a reasonable value.
 
-### Analyses (notebooks open github.com)
+### Analyses (notebooks open on github.com)
 
 * [Brian's analysis](https://github.com/brianhill/transient-astronomy/blob/master/analyses/SN_2022abik/2022-12-1415/analysis-brian.ipynb)
