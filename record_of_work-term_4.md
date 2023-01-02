@@ -8,7 +8,8 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
 * 2022-12-30 &mdash; Updated TheSkyFusion to [the latest (2022-04-21) release](https://www.bisque.com/thesky-change-log/#TheSkyFusionChangeLog) from Software Bisque
 * 2022-12-31 &mdash; Meet to plan next steps on target selection and development of analysis pipeline
-* 2023-01-02 &mdash;
+* 2023-01-02 &mdash; Meet to go over median subtraction and log stretch routines
+* 2023-01-03 &mdash; 
 
 ### Week 1 (Jan. 8-14)
 

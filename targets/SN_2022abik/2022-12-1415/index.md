@@ -29,3 +29,5 @@ The 30-second darks are needed because the i' flats required 30 seconds to get a
 ### Analyses (notebooks open on github.com)
 
 * [Brian's analysis](https://github.com/brianhill/transient-astronomy/blob/master/targets/SN_2022abik/2022-12-1415/analysis-brian.ipynb)
+* [Luke's analysis](https://github.com/brianhill/transient-astronomy/blob/master/targets/SN_2022abik/2022-12-1415/analysis-luke.ipynb)
+* [Sofia's analysis](https://github.com/brianhill/transient-astronomy/blob/master/targets/SN_2022abik/2022-12-1415/analysis-sofia.ipynb)
