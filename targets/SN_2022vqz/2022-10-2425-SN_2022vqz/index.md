@@ -34,9 +34,10 @@ This night we only took half and hour of total exposure time. The images looked 
 
 ### Analyses (notebooks open on github.com)
 
-* [Brian's Analysis](https://github.com/brianhill/transient-astronomy/blob/master/analyses/2022-10-2425-SN_2022vqz/analysis-brian.ipynb)
-* [Luke's Analysis](https://github.com/brianhill/transient-astronomy/blob/master/analyses/2022-10-2425-SN_2022vqz/analysis-luke.ipynb)
-* [Sofia's Analysis](https://github.com/brianhill/transient-astronomy/blob/master/analyses/2022-10-2425-SN_2022vqz/analysis-sofia.ipynb)
+* [Brian's Analysis](https://github.com/brianhill/transient-astronomy/blob/master/targets/2022-10-2425-SN_2022vqz/analysis-brian.ipynb)
+* [Luke's Analysis](https://github.com/brianhill/transient-astronomy/blob/master/targets/2022-10-2425-SN_2022vqz/analysis-luke.ipynb)
+* [Sofia's Analysis](https://github.com/brianhill/transient-astronomy/blob/master/targets/2022-10-2425-SN_2022vqz/analysis-sofia.ipynb)
+* [Sofia's Tutorial Astroalign](https://github.com/brianhill/transient-astronomy/blob/master/targets/2022-10-2425-SN_2022vqz/tutorial-astroalign-sofia.ipynb)
 
 ### PixInsight Stretch
 

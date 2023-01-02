@@ -6,9 +6,9 @@ See also [Record of Work - Term 4](./record_of_work-term_4.html)
 
 ### Week 0 &mdash; First Observations
 
-* 2022-10-18 &mdash; Observed [NGC 869](./analyses/NGC_869/2022-10-1819-NGC_869/index.html)
-* 2022-10-21 &mdash; Observed [Supernova 2022vqz](./analyses/SN_2022vqz/2022-10-2122-SN_2022vqz/index.html)
-* 2022-10-24 &mdash; Observed [Supernova 2022vqz](./analyses/SN_2022vqz/2022-10-2425-SN_2022vqz/index.html)
+* 2022-10-18 &mdash; Observed [NGC 869](./targets/NGC_869/2022-10-1819-NGC_869/index.html)
+* 2022-10-21 &mdash; Observed [Supernova 2022vqz](./targets/SN_2022vqz/2022-10-2122-SN_2022vqz/index.html)
+* 2022-10-24 &mdash; Observed [Supernova 2022vqz](./targets/SN_2022vqz/2022-10-2425-SN_2022vqz/index.html)
 
 ### Week 1 &mdash; Start Development of Analysis Pipeline
 
@@ -33,15 +33,15 @@ See also [Record of Work - Term 4](./record_of_work-term_4.html)
 
 ### Week 5 &mdash; Improve Visualization Part of Pipeline &mdash; Attempt first g' and r' Observations of Brightening Supernova
 
-* 2022-11-19 &mdash; Observed candidate [Supernova AT2022aaco](./analyses/SN_AT2022aaco/2022-11-1920-SN_AT2022aaco/index.html) (Brian, Luke, and Sofia)
-* 2022-11-20 &mdash; Observed candidate [Supernova AT2022aaco](./analyses/SN_AT2022aaco/2022-11-2021-SN_AT2022aaco/index.html) (Brian and Ben)
+* 2022-11-19 &mdash; Observed candidate [Supernova AT2022aaco](./targets/SN_AT2022aaco/2022-11-1920-SN_AT2022aaco/index.html) (Brian, Luke, and Sofia)
+* 2022-11-20 &mdash; Observed candidate [Supernova AT2022aaco](./targets/SN_AT2022aaco/2022-11-2021-SN_AT2022aaco/index.html) (Brian and Ben)
 * 2022-11-21 &mdash; Apply aperture-annulus photometry using [photutils.aperture](https://photutils.readthedocs.io/en/stable/aperture.html) &mdash; Write a routine that takes a numpy array and does row-wise subtraction of median values &mdash; Improve LogStretch routine
 * 2022-11-23 &mdash; Observing session (Luke and Sofia) &mdash; Encountered instrument problems(!)
 
 ### Week 6 &mdash; Selected 2nd Brightening Supernova
 
 * 2022-11-27 &mdash; POSTPONED: Work with Dan Duriscoe to determine local sky brightness
-* 2022-11-29 &mdash; [SN 2022abik](./analyses/SN_2022abik/index.html) (Brian)
+* 2022-11-29 &mdash; [SN 2022abik](./targets/SN_2022abik/index.html) (Brian)
 
 ### Week 7 &mdash; Summarized and Presented Work to Date
 
@@ -50,4 +50,4 @@ See also [Record of Work - Term 4](./record_of_work-term_4.html)
 
 ### Week 8 &mdash; 2nd Brightening Supernova
 
-* 2022-12-14 &mdash; 2nd Observing session for [SN 2022abik](./analyses/SN_2022abik/index.html) (Sofia, Luke, and Brian)
+* 2022-12-14 &mdash; 2nd Observing session for [SN 2022abik](./targets/SN_2022abik/index.html) (Sofia, Luke, and Brian)
