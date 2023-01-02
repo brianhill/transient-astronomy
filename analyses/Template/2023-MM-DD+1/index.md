@@ -1,11 +1,9 @@
-## SN 2022adqz 2023-01-0102
+## SN 2023ZZZZ 2023-MM-DD+1
 
 Back to [Index](../index.html)
 
 ### Observing Notes
 
-Short between winter storms.
-
-### Calibration Photos
+### Calibration Images
 
 ### Analyses (notebooks open on github.com)

@@ -1,7 +1,7 @@
-## SN 2022adqz
+## SN 2023ZZZZ
 
 * [Target](./target/index.html)
 
 ### Observations/Analyses
 
-* [2023-01-0102](./2023-01-0102/index.html)
+* [2023-MM-DD+1](./2023-MM-DD+1/index.html)
