@@ -16,7 +16,7 @@ Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 ### For Observation Planning
 
 * [ALeRCE ZTF Explorer query](https://alerce.online/?selectedClassifier=stamp_classifier&selectedClass=SN&probability=0.5&ndet=2&ndet=2797&ranking=1&firstmjd=59935&ra=105&dec=45&radius=162000&count=false&page=1&perPage=20) (45&deg; of RA 7h DEC 45, SN probability > 0.5, discovery MJD > 59935, ordered by discovery, newest first)
-* [CMC](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) and [ECMWF](https://www.yr.no/en/forecast/graph/2-5346035/United%20States/California/Inyo%20County/The%20Elephant) forecasts
+* [GFS (NOAA)](https://forecast.weather.gov/MapClick.php?w0=t&w3=sfcwind&w3u=1&w4=sky&w5=pop&w7=rain&w9=snow&w13u=0&w16u=1&w17u=1&AheadHour=0&Submit=Submit&FcstType=graphical&textField1=37.3717&textField2=-117.984&site=all&unit=0&dd=&bw=), [CMC](https://www.cleardarksky.com/c/DpSprObCAkey.html?1), and [ECMWF](https://www.yr.no/en/forecast/graph/2-5346035/United%20States/California/Inyo%20County/The%20Elephant) forecasts
 * [Moon Phases &mdash; 2023 &mdash; First Half](./resources/MoonPhases-2023H1.png)
 
 ## Syllabus
