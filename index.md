@@ -8,11 +8,6 @@ Mentor/Supervisor: [Prof. Brian Hill](../index.html)
 
 Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 
-## Links to Work in Progress
-
-* [Index to Targets](./targets/index.html)
-* [Record of Work - Term 4](./record_of_work-term_4.html)
-
 ## Quick Links
 
 #### Work in Progress
@@ -23,7 +18,7 @@ Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 #### Target Queries
 
 * [ALeRCE ZTF query](https://alerce.online/?selectedClassifier=stamp_classifier&selectedClass=SN&probability=0.5&ndet=2&ndet=2797&ranking=1&firstmjd=59935&ra=105&dec=55&radius=144000&count=false&page=1&perPage=20) (40&deg; of RA 7h DEC 55, SN probability > 0.5, discovery MJD > 59935, ordered by discovery, newest first)
-* [IAU TNS query](https://www.wis-tns.org/search?&ra=105.0&decl=55.0&radius=40.0&coords_unit=deg&date_start%5Bdate%5D=2022-12-15&date_end%5Bdate%5D=&discovery_mag_min=16&discovery_mag_max=19) (40 degrees of RA 7h DEC 55, discovery mag between 16 and 19, discovery date > 2022-12-15)
+* [IAU TNS query](https://www.wis-tns.org/search?&ra=105.0&decl=55.0&radius=40.0&coords_unit=deg&date_start%5Bdate%5D=2022-12-15&date_end%5Bdate%5D=&discovery_mag_min=16&discovery_mag_max=19) (40&deg; of RA 7h DEC 55, discovery mag between 16 and 19, discovery date > 2022-12-15)
 
 #### Weather
 
