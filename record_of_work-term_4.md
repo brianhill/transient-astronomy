@@ -7,11 +7,13 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 ### Term 3-4 Break
 
 * 2022-12-30 &mdash; Updated TheSkyFusion to [the latest (2022-04-21) release](https://www.bisque.com/thesky-change-log/#TheSkyFusionChangeLog) from Software Bisque
-* 2022-12-31 &mdash; Meet to plan next steps on target selection and development of analysis pipeline
-* 2023-01-02 &mdash; Meet to go over median subtraction and log stretch routines
-* 2023-01-03 &mdash; 
+* 2022-12-31 &mdash; Meet to plan (1) target selection and observing schedule, and (2) development of our second-generation analysis pipeline using our [SN 2022abik data](./targets/SN_2022abik/index.html)
+* 2023-01-02 &mdash; Meet to work on median subtraction and log stretch routines
+* 2023-01-05 &mdash; Meet to work on alignment and stacking routines
 
 ### Week 1 (Jan. 8-14)
+
+* 2023-01-08 &mdash; Meet to work on PSF photometry routines 
 
 ### Week 2 (Jan 15-21)
 
@@ -29,8 +31,6 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
 *Various loose ends*
 
-* Tests of our usages of astroalign
-* Experimentation with better image-stretching routines
-* Write a subtraction routine for removing the median value of a row
-* Write (or learn to use the LogStretch routine astropy.visualization) so that a minimum and maximum ADU value can be specified (and maps to black and white, respectively)
-* Report crashes to Software Bisque
+* Report crashes to Software Bisque if they persist after updating TheSkyFusion
+* Investigate Software Bisque's Super-Model and ProTrack software as an alternative to auto-guiding
+* Get TheSkyFusion onto the Observatory network
