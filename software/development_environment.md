@@ -34,18 +34,22 @@ This installed `ccdproc-2.3.1` and various other dependencies.
 
 In a Jupyter notebook, we will follow the [Getting Started](https://ccdproc.readthedocs.io/en/latest/getting_started.html) documentation for `ccdproc`.
 
-### astroalign
+### astroalign and twirl
 
-We will use [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment.
+We will use [astroalign](https://astroalign.quatrope.org/en/latest/) for alignment and [twirl](https://github.com/lgrcia/twirl) for plate-solving.
 
 `conda install -c conda-forge astroalign`
 
+Twirl is not available through the usual Anaconda channels, so we use:
+
+`pip install twirl`
+
 ### astropy.visualization
 
-We will use [astropy.visualization](https://docs.astropy.org/en/stable/visualization/index.html) to examine imagery at various stages of the data processing pipeline.
+We will use [astropy.visualization](https://docs.astropy.org/en/stable/visualization/index.html) and/or custom stretching routines to examine images at various stages of the data-processing pipeline.
 
 ### photutils
 
-We plan to use [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) for aperture-annulus photometry.
+We plan to use [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) for [PSF photometry](https://photutils.readthedocs.io/en/stable/psf.html).
 
 `conda install -c conda-forge photutils`
