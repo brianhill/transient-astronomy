@@ -74,12 +74,12 @@ Challenges in photometry are to be expected because targets are generally superi
   
   1.  Ordinary PSF photometry
   2.  PSF photometry with a fitted gradient background
-  3.  PSF photometry by subtracting the PanSTARRS images of the host galaxies (scaled to the plate-scale of our telescope, and possibly convolved to model our seeing)
-  4.  PSF photometry one to two months after the supernovae have achieved peak brightness, using our image of the bare galaxy as background.
+  3.  PSF photometry by subtracting PanSTARRS images of the host galaxies (scaled to the plate-scale of our telescope, and possibly convolved to model our seeing)
+  4.  PSF photometry one to two months after the supernovae have achieved peak brightness, using our images of the essentially-bare galaxies as background
 
 ## Grading / Evaluation
 
 * Observational Work &mdash; 25% &mdash; This will be comprised of approximately 14 data-taking sessions
-* Analytical Work &mdash; 25% &mdash; This is the data processing using Python packages
-* Scientific Record-Keeping &mdash; 25% &mdash; Records should include: (a) Target Selection Criteria, (b) Listings of Available Targets and their properties, (c) Conditions of Data-Taking, (d) Factors in Data-Processing
+* Analytical Work &mdash; 25% &mdash; Developing and applying the data-processing workflow in Jupyter
+* Scientific Record-Keeping &mdash; 25% &mdash; Records should include: (a) Target selection criteria starting with listings of available targets and their properties, (b) Conditions of data-taking, (c) Factors during observation that are relevant to data quality and data processing
 * Project Report and Presentation &mdash; 25% &mdash; We will jointly produce a project report. If our results are sufficiently significant, our project report will be submitted as a paper to a refereed journal (such as the Journal of the AAVSO or the Astronomical Society of the Pacific). We will also present our results to the Deep Springs community as a standalone presentation or as a lecture in the lecture series that is under discussion by CurCom.
