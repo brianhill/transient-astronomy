@@ -43,6 +43,7 @@ We will use [astroalign](https://astroalign.quatrope.org/en/latest/) for alignme
 Twirl in turn needs astroquery.gaia. Neither twirl nor astroquery are available through the repo.anaconda.com channels, so we use:
 
 `pip install twirl`
+
 `pip install astroquery`
 
 ### astropy.visualization
