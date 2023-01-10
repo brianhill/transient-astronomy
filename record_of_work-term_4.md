@@ -13,7 +13,8 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
 ### Week 1 (Jan. 8-14)
 
-* 2023-01-08 &mdash; Meet to work on PSF photometry routines 
+* 2023-01-08 &mdash; Meet to work on getting plate-solving to work
+* 2023-01-10 &mdash; Possible change of gears due to possible clearing between storms: Take data on this ZTF discovery? &mdash; [Alerce](https://alerce.online/object/ZTF23aaaatjn) (host is UGC 3044 in Taurus near the Pleiades and currently Mars as well) &mdash; [TNS](https://www.wis-tns.org/object/2023cf)
 
 ### Week 2 (Jan 15-21)
 
