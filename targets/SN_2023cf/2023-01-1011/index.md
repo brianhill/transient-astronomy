@@ -4,7 +4,7 @@ Back to [Index](../index.html)
 
 ### Observing Notes
 
-This was a promising clearing in a break between storms. That said, although it was clear, the wind was buffeting the scope and the seeing was terrible (something like 15 arcseconds).
+This was a promising clearing in a break between storms that was forecast by [ClearDarkSky](./AmazingCanadianForecast-1.png) and the [CMC](AmazingCanadianForecast-2.png). That said, although the forecast was correct, the wind was buffeting the scope and the seeing was terrible (something like 15 arcseconds).
 
 One might say it was a waste of time, but it revealed weaknesses in what we are doing that we can now attempt to fix.
 
