@@ -7,6 +7,6 @@ Back to [Index](../index.html)
 * [TNS Page](https://www.wis-tns.org/object/2023ZZZZ)
 * [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF23AAAAAA)
 * Host name (and aliases):
-* SN RA/DEC (in sexagesimal):
+* Target Coordinates (J2000):
 
 ![TheSkyX Finder Chart](./TheSkyXFinderChart.png)

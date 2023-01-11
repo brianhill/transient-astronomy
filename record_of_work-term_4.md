@@ -14,7 +14,7 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 ### Week 1 (Jan. 8-14)
 
 * 2023-01-08 &mdash; Meet to work on getting plate-solving to work
-* 2023-01-10 &mdash; Possible change of gears due to possible clearing between storms: Take data on this ZTF discovery? &mdash; [Alerce](https://alerce.online/object/ZTF23aaaatjn) (host is UGC 3044 in Taurus near the Pleiades and currently Mars as well) &mdash; [TNS](https://www.wis-tns.org/object/2023cf)
+* 2023-01-10 &mdash; Brief clearing between storms enough to target [SN 2023cf](./targets/SN_2023cf/index.html)
 
 ### Week 2 (Jan 15-21)
 
@@ -32,6 +32,8 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
 *Various loose ends*
 
-* Report crashes to Software Bisque if they persist after updating TheSkyFusion
-* Investigate Software Bisque's Super-Model and ProTrack software as an alternative to auto-guiding
-* Get TheSkyFusion onto the Observatory network
+* Report crashes to Software Bisque if they persist after updating TheSkyFusion.
+* Investigate Software Bisque's Super-Model and ProTrack software as an alternative to auto-guiding.
+* Get TheSkyFusion onto the Observatory network.
+* We need to understand why 3-5 m/s winds are able to buffet the scope so badly. Is there looseness in the imaging train that we can remove?
+* We need to add an FOV indicator for the auto-guider. An issue was that there was nothing in the autoguider frame on 2023-01-10 bright enough to survive the poor seeing and buffeting perhaps jogging the image would have corrected this.
