@@ -19,7 +19,7 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
 ### Week 2 (Jan 15-21)
 
-* 2023-01-15 &mdash; Meet
+* 2023-01-15 &mdash; Got WCS plate-solving working and plate-solved files written (with caveats, e.g., MIDOBS)
 
 ### Week 3 (Jan. 22-28)
 
