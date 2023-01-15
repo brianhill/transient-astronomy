@@ -14,9 +14,12 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 ### Week 1 (Jan. 8-14)
 
 * 2023-01-08 &mdash; Meet to work on getting plate-solving to work
-* 2023-01-10 &mdash; Brief clearing between storms enough to target [SN 2023cf](./targets/SN_2023cf/index.html)
+* 2023-01-10 &mdash; Brief clearing between storms enough to target [SN 2023cf](./targets/SN_2023cf/index.html), but images very soft
+* 2023-01-14 &mdash; Analyzed [SN 2023cf](./targets/SN_2023cf/index.html). Images too soft ("storm seeing") to show the target.
 
 ### Week 2 (Jan 15-21)
+
+* 2023-01-15 &mdash; Meet
 
 ### Week 3 (Jan. 22-28)
 

@@ -25,3 +25,5 @@ Observing continued until just before moonrise (until 10:02pm). Times are local 
 * Continue to use our existing calibration images, although we are going to need to re-do them once we disassemble the imaging train.
 
 ### Analyses (notebooks open on github.com)
+
+* [Brian's analysis](https://github.com/brianhill/transient-astronomy/blob/master/targets/SN_2023cf/2023-01-1011/analysis-brian.ipynb) &mdash; Images too soft ("storm seeing") to show the target
