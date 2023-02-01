@@ -33,7 +33,7 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
 ### Week 4 (Jan 29-Feb. 4)
 
-* 2023-01-31 &mdash; Create the directions for setting up the college telescope - FIRST DRAFT
+* 2023-01-31 &mdash; Create the directions for setting up the college telescope &mdash; this is a core part of the passover document
 
 ### Week 5 (Feb. 5-11)
 
