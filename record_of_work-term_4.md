@@ -38,7 +38,7 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
 ### Week 5 (Feb. 5-11)
 
-* 2023-02-05 &mdash; Meet to get back to notebook development! Researching fitting methods (see [references](./references/psf-fitting-fadeyev/README.html))
+* 2023-02-05 &mdash; Meet to get back to notebook development! Researching fitting methods (see [references](./references/psf-fitting/README.html))
 
 ### Week 6 (Feb. 12-18)
 
