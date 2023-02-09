@@ -17,8 +17,8 @@ Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 
 #### Target Queries
 
-* [ALeRCE ZTF query](https://alerce.online/?selectedClassifier=stamp_classifier&selectedClass=SN&probability=0.5&ndet=2&ndet=2797&ranking=1&firstmjd=59935&ra=115&dec=55&radius=144000&count=false&page=1&perPage=20) (40&deg; of RA 7h40m, DEC 55, SN probability > 0.5, discovery MJD > 59981, ordered by discovery, newest first)
-* [IAU TNS query](https://www.wis-tns.org/search?&ra=115.0&decl=55.0&radius=40.0&coords_unit=deg&date_start%5Bdate%5D=2023-02-05&date_end%5Bdate%5D=&discovery_mag_min=16&discovery_mag_max=19) (40&deg; of RA 7h40m DEC 55, discovery mag between 16 and 19, discovery date > 2023-02-05)
+* [ALeRCE ZTF query](https://alerce.online/?selectedClassifier=stamp_classifier&selectedClass=SN&probability=0.5&ndet=2&ndet=2797&ranking=1&firstmjd=59935&ra=120&dec=55&radius=144000&count=false&page=1&perPage=20) (40&deg; of RA 8h, DEC 55, SN probability > 0.5, discovery MJD > 59981, ordered by discovery, newest first)
+* [IAU TNS query](https://www.wis-tns.org/search?&ra=120.0&decl=55.0&radius=40.0&coords_unit=deg&date_start%5Bdate%5D=2023-02-05&date_end%5Bdate%5D=&discovery_mag_min=16&discovery_mag_max=19) (40&deg; of RA 8h DEC 55, discovery mag between 16 and 19, discovery date > 2023-02-05)
 
 #### Weather
 
