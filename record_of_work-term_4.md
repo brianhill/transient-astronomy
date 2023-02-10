@@ -38,7 +38,10 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
 ### Week 5 (Feb. 5-11)
 
-* 2023-02-05 &mdash; Meet to get back to notebook development! Researching fitting methods (see [references](./references/psf-fitting/README.html))
+* 2023-02-05 &mdash; Meet to get back to notebook development! Researching fitting methods (see [psf-fitting overview](./references/psf-fitting/overview.html))
+* 2023-02-07 &mdash; Finished reassembly of image train
+* 2023-02-08 &mdash; Finished recalibration of scope following disassembly and reassembly
+* 2023-02-09 &mdash; Targeted [AT 2023bhc](.targets/AT_2023bhc/index.html) and tested write rate at one frame per second for 600 frames (full-frame binned 2x2)
 
 ### Week 6 (Feb. 12-18)
 
