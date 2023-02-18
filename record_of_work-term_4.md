@@ -40,10 +40,13 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 
 * 2023-02-05 &mdash; Meet to get back to notebook development! Researching fitting methods (see [psf-fitting overview](./references/psf-fitting/overview.html))
 * 2023-02-07 &mdash; Finished reassembly of image train
-* 2023-02-08 &mdash; Finished recalibration of scope following disassembly and reassembly
-* 2023-02-09 &mdash; Targeted [AT 2023bhc](.targets/AT_2023bhc/index.html) and tested write rate at one frame per second for 600 frames (full-frame binned 2x2)
+* 2023-02-08 &mdash; Finished recalibration (focus and sky model) following disassembly and reassembly &mdash; but discovered looseness in secondary position
+* 2023-02-09 &mdash; Targeted [AT 2023bhc](.targets/AT_2023bhc/index.html) and tested write rate at one frame per second for 600 frames (full-frame binned 2x2) &mdash; tightening secondary put collimation out
 
 ### Week 6 (Feb. 12-18)
+
+* 2023-02-16 &mdash; Crude recollimation (without needed adapter for Takahashi collimating scope) &mdash; Adapter located and ordered &mdash; Another recalibration (focus and sky model) following recollimation
+* 2023-02-18 &mdash; 
 
 ### Week 7 (Feb. 19-25)
 
