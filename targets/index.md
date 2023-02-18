@@ -2,6 +2,7 @@
 
 Feb. 2023:
 
+* [AT 2023buy](./AT_2023buy/index.html)
 * [AT 2023bhc](./AT_2023bhc/index.html)
 
 Jan. 2023:
@@ -24,4 +25,4 @@ Oct. 2022
 
 ### @Focus3 Records
 
-* [@Focus3 Records](./at_focus3_records.html)
+* [@Focus3 Records](../equipment/at_focus3_records.html)

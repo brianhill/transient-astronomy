@@ -1,4 +1,4 @@
-## SN 2023ZZZZ Target Information
+## AT 2023ZZZZ Target Information
 
 Back to [Index](../index.html)
 
@@ -8,6 +8,8 @@ Back to [Index](../index.html)
 * [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF23AAAAAA)
 * Discovery Date: 
 * Host Name (and Aliases): 
-* Target Coordinates (J2000): 
+* Target Coordinates (J2000): RA XXh YYm ZZ.zzzs, DEC +UU&deg; VV' WW.ww"
 
 ![TheSkyX Finder Chart](./TheSkyXFinderChart.png)
+
+![TheSkyX Finder Chart-Zoomed](./TheSkyXFinderChart-Zoomed.png)
