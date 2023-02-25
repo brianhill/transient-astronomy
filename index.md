@@ -13,7 +13,7 @@ Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 #### Work in Progress
 
 * [Index to Targets](./targets/index.html)
-* [Record of Work - Term 4](./record_of_work-term_4.html)
+* [Record of Work - Term 5](./record_of_work-term_5.html)
 
 #### Target Queries
 

@@ -46,14 +46,16 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html)
 ### Week 6 (Feb. 12-18)
 
 * 2023-02-16 &mdash; Crude recollimation (without needed adapter for Takahashi collimating scope) &mdash; Adapter located and ordered &mdash; Another recalibration (focus and sky model) following recollimation
-* 2023-02-18 &mdash; 
+* 2023-02-18 &mdash; Attempted AT\_2023buy, but failed due to too many thin clouds
 
-### Week 7 (Feb. 19-25)
+### Week 7 (Feb. 19-24)
+
+* 2023-02-19 &mdash; Attempted AT\_2023buy again, but failed due to mount disconnections
+* 2023-02-22 &mdash; Ordered Windows laptop (may move entire operation to Windows)
+* 2023-02-23 &mdash; Planned to re-cable USB connection between TheSkyFusion and the mount, but the mount disconnection problem would not reproduce
 
 ## To-Do
 
 *Various loose ends*
 
 * Investigate Software Bisque's Super-Model and ProTrack software as an alternative to auto-guiding.
-* With Andrew Waser, get TheSkyFusion onto the Observatory network?
-* We need to understand why 3-5 m/s winds are able to buffet the scope so badly.
