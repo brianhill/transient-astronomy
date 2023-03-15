@@ -6,10 +6,15 @@ See also [Record of Work - Term 3](./record_of_work-term_3.html) and [Record of 
 
 ### Term 4-5 Break (Feb. 25-Mar. 12)
 
+* 2023-03-12 &mdash; Picked up RASA 8 (wide-angle telescope for future transient survey work) in Santa Ana
+* 2023-03-14 &mdash; Researched and ordered back-focus extension tube and dovetail rail for RASA 8
 
 ### Week 8 (Mar. 13-18)
 
-### Week 8 (Mar. 19-25)
+* 2023-03-14 &mdash; Target selection for probable clear night on 2023-03-16 &mdash; [A supernovae in M108](https://www.wis-tns.org/object/2023dbc) &mdash; This is the only clear night in the 10-day forecast!
+* 2023-03-15 &mdash; Met to plan next phase of work (following Snowmageddon)
+
+### Week 9 (Mar. 19-25)
 
 ### Week 10 (Mar. 26-Apr. 1)
 
