@@ -1,4 +1,4 @@
-## AT 2023ZZZZ Target Information
+## AT 2023zzzz Target Information
 
 Back to [Index](../index.html)
 
@@ -9,6 +9,8 @@ Back to [Index](../index.html)
 * Discovery Date: 
 * Host Name (and Aliases): 
 * Target Coordinates (J2000): RA XXh YYm ZZ.zzzs, DEC +UU&deg; VV' WW.ww"
+
+![SkySafari Finder Chart](./SkySafariFinderChart.png)
 
 ![TheSkyX Finder Chart](./TheSkyXFinderChart.png)
 
