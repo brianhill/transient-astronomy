@@ -1,5 +1,11 @@
 ## Reverse Chronological Index of Targets
 
+Apr. 2023:
+
+* [ZTF23aadrume](./ZTF23aadrume/index.html)
+* [ZTF23aagdamr](./ZTF23aagdamr/index.html)
+* [ZTF23aafgazi](./ZTF23aafgazi/index.html)
+
 Mar. 2023:
 
 * [AT 2023dbc](./AT_2023dbc/index.html)
