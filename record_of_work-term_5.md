@@ -1,6 +1,6 @@
 ## Record of Work &mdash; Term 5
 
-Course [home page](./)
+Transient Astronomy [home page](./index.html)
 
 See also [Record of Work - Term 3](./record_of_work-term_3.html) and [Record of Work - Term 4](./record_of_work-term_4.html)
 

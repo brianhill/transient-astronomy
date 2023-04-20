@@ -1,6 +1,6 @@
-## AT 2023zzzz Target Information
+## AT 2023zzzz Target Details
 
-Back to [Index](../index.html)
+Back to [Target overview](../index.html)
 
 ### Discovery and Finder Charts
 
