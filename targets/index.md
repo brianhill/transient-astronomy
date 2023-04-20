@@ -2,9 +2,9 @@
 
 Apr. 2023:
 
-* [ZTF23aadrume](./ZTF23aadrume/index.html)
-* [ZTF23aagdamr](./ZTF23aagdamr/index.html)
-* [ZTF23aafgazi](./ZTF23aafgazi/index.html)
+* [ZTF23aagdamr](./ZTF23aagdamr/index.html) RA 18h 26m DEC +60
+* [ZTF23aaejwfe](./ZTF23aaejwfe/index.html) RA 16h 11m DEC +52
+* [ZTF23aafgazi](./ZTF23aafgazi/index.html) RA 12h 21m DEC +10
 
 Mar. 2023:
 
