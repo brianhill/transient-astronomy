@@ -4,11 +4,6 @@ Back to [Transient Astronomy home](../index.html)
 
 ### Target Selection and Observing Night Links
 
-#### Work in Progress
-
-* [Index to Targets](./targets/index.html)
-* [Record of Work - Term 5](./record_of_work-term_5.html)
-
 #### Target Queries
 
 Most useful first:
@@ -29,16 +24,14 @@ Most useful first:
 
 #### Focusing Records
 
-[@Focus3 Records](../equipment/at_focus3_records.html)
+[@Focus3 Records](./at_focus3_records.html)
 
 ### Reverse Chronology
 
 #### Apr. 2023
 
-* [ZTF23aagpsii](https://alerce.online/object/ZTF23aagpsii) interesting transient in our galaxy(?) discovered Apr. 20
-* [ZTF23aagdamr](./ZTF23aagdamr/index.html) RA 18h 26m DEC +60 alternate (not chosen) for Apr. 20
-* [ZTF23aaejwfe](./ZTF23aaejwfe/index.html) RA 16h 11m DEC +52 alternate (not chosen) for Apr. 20
-* [ZTF23aafgazi](./ZTF23aafgazi/index.html) RA 12h 21m DEC +10 *chosen for Apr. 20*
+* [ZTF23aagdamr](./ZTF23aagdamr/index.html) RA 18h 26m DEC +60 alternate (not chosen) for Apr. 20, but we got some data on it on Apr. 21, and more on Apr. 24
+* [ZTF23aafgazi](./ZTF23aafgazi/index.html) RA 12h 21m DEC +10 *chosen for Apr. 20, 21, 24*
 
 #### Mar. 2023
 

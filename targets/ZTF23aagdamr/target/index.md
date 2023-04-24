@@ -9,9 +9,8 @@ Back to [Index](../index.html)
 
 ### Discovery and Finder Charts
 
-* [TNS Page](https://www.wis-tns.org/object/2023fyz)
 * [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF23aagdamr)
-* Discovery Date: 2023-04-17
+* [TNS Page](https://www.wis-tns.org/object/2023fyz)
 * Host Name (and Aliases): Anonymous galaxy
 * Target Coordinates (J2000): RA 18h 26m 9.509s, DEC +60&deg; 25' 37.69"
 
