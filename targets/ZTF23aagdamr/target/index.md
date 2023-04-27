@@ -16,7 +16,7 @@ Back to [Index](../index.html)
 * Nearby star in TheSkyX: UCAC4 504:54241
 * Target Coordinates (J2000): RA 18h 26m 9.509s, DEC +60&deg; 25' 37.69"
 
-*10:30am UTC, 3:30am local time, in the wee hours of Saturday, 4/29, just after moonset at 10:18am, and more than an hour before the 11:49am transit*
+*SkySafari Finder Chart at moonset, 10:18am UTC, 3:18am local time, Saturday, 4/29, just over an hour before the 11:24am astronomical dawn*
 
 ![SkySafari Finder Chart](./SkySafariFinderChart.png)
 
