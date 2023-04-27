@@ -12,14 +12,22 @@ Back to [Index](../index.html)
 * [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF23aagdamr)
 * [TNS Page](https://www.wis-tns.org/object/2023fyz)
 * Host Name (and Aliases): Anonymous galaxy
+* Nearby star in SkySafari: GAIA 2158116307694400640
+* Nearby star in TheSkyX: UCAC4 504:54241
 * Target Coordinates (J2000): RA 18h 26m 9.509s, DEC +60&deg; 25' 37.69"
 
 *10:30am UTC, 3:30am local time, in the wee hours of Saturday, 4/29, just after moonset at 10:18am, and more than an hour before the 11:49am transit*
 
 ![SkySafari Finder Chart](./SkySafariFinderChart.png)
 
+*TheSkyX Finder Chart*
+
 ![TheSkyX Finder Chart](./TheSkyXFinderChart.png)
 
+*TheSkyX Finder Chart Zoomed*
+
 ![TheSkyX Finder Chart-Zoomed](./TheSkyXFinderChart-Zoomed.png)
+
+*TheSkyX Finder Chart Zoomed with North Down*
 
 ![TheSkyX Finder Chart-Zoomed with North Down](./TheSkyXFinderChart-ZoomedWithNorthDown.png)
