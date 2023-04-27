@@ -14,8 +14,12 @@ Back to [Index](../index.html)
 * Host Name (and Aliases): Anonymous galaxy
 * Target Coordinates (J2000): RA 18h 26m 9.509s, DEC +60&deg; 25' 37.69"
 
+*10:30am UTC, 3:30am local time, in the wee hours of Saturday, 4/29, just after moonset at 10:18am, and more than an hour before the 11:49am transit*
+
 ![SkySafari Finder Chart](./SkySafariFinderChart.png)
 
 ![TheSkyX Finder Chart](./TheSkyXFinderChart.png)
 
 ![TheSkyX Finder Chart-Zoomed](./TheSkyXFinderChart-Zoomed.png)
+
+![TheSkyX Finder Chart-Zoomed with North Down](./TheSkyXFinderChart-ZoomedWithNorthDown.png)

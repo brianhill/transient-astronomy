@@ -2,15 +2,7 @@
 
 Back to [Transient Astronomy home](../index.html)
 
-### Target Selection and Observing Night Links
-
-#### Target Queries
-
-Most useful first:
-
-* [ALeRCE Supernova Hunter](https://snhunter.alerce.online)
-* [ALeRCE ZTF query](https://alerce.online/?selectedClassifier=stamp_classifier&selectedClass=SN&probability=0.5&ndet=2&ndet=2797&ranking=1&firstmjd=60040&ra=180&dec=55&radius=144000&count=false&page=1&perPage=20) (40&deg; of RA 12h, DEC 55, SN probability > 0.5, discovery MJD > 60040, ordered by discovery, newest first)
-* [IAU TNS query](https://www.wis-tns.org/search?&ra=120.0&decl=55.0&radius=40.0&coords_unit=deg&date_start%5Bdate%5D=2023-02-05&date_end%5Bdate%5D=&discovery_mag_min=16&discovery_mag_max=19) (40&deg; of RA 8h DEC 55, discovery mag between 16 and 19, discovery date > 2023-02-05)
+### Quick Links for Planning Observing
 
 #### Weather  Forecasts
 
@@ -30,8 +22,8 @@ Most useful first:
 
 #### Apr. 2023
 
-* [ZTF23aagdamr](./ZTF23aagdamr/index.html) RA 18h 26m DEC +60 alternate (not chosen) for Apr. 20, but we got some data on it on Apr. 21, and more on Apr. 24
-* [ZTF23aafgazi](./ZTF23aafgazi/index.html) RA 12h 21m DEC +10 *chosen for Apr. 20, 21, 24*
+* [ZTF23aagdamr](./ZTF23aagdamr/index.html) RA 18h 26m DEC +60 Apr. 21
+* [ZTF23aafgazi](./ZTF23aafgazi/index.html) RA 12h 21m DEC +10 Apr. 20, 21, 24
 
 #### Mar. 2023
 

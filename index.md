@@ -13,6 +13,14 @@ Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 * [Index to Targets](./targets/index.html)
 * [Record of Work - Term 5](./record_of_work-term_5.html)
 
+#### Target Queries
+
+Most useful first:
+
+* [ALeRCE Supernova Hunter](https://snhunter.alerce.online)
+* [ALeRCE ZTF query](https://alerce.online/?selectedClassifier=stamp_classifier&selectedClass=SN&probability=0.5&ndet=2&ndet=2797&ranking=1&firstmjd=60040&ra=180&dec=55&radius=144000&count=false&page=1&perPage=20) (40&deg; of RA 12h, DEC 55, SN probability > 0.5, discovery MJD > 60040, ordered by discovery, newest first)
+* [IAU TNS query](https://www.wis-tns.org/search?&ra=120.0&decl=55.0&radius=40.0&coords_unit=deg&date_start%5Bdate%5D=2023-02-05&date_end%5Bdate%5D=&discovery_mag_min=16&discovery_mag_max=19) (40&deg; of RA 8h DEC 55, discovery mag between 16 and 19, discovery date > 2023-02-05)
+
 ## Syllabus
 
 * [Syllabus](./TransientAstronomySyllabus.pdf) &mdash; A PDF that mirrors what is on this web page
