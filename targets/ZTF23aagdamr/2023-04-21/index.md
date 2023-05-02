@@ -1,8 +1,10 @@
-## AT 2023zzzz 2023-MM-DD+1
+## ZTF23aagdamr 2023-05-21
 
 Back to [Index](../index.html)
 
 ### Observing Notes
+
+* This was done after the primary target for the night. Maybe only 10 exposures?
 
 ### Calibration Images
 
