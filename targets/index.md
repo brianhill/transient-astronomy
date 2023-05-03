@@ -2,6 +2,8 @@
 
 Back to [Transient Astronomy home](../index.html)
 
+Index of [Observations](./observations.html)
+
 ### Quick Links for Planning Observing
 
 #### Weather  Forecasts

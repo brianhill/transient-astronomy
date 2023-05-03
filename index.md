@@ -8,19 +8,6 @@ Mentor/Supervisor: [Prof. Brian Hill](../index.html)
 
 Student Researchers: Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
 
-### Quick Links
-
-* [Index to Targets](./targets/index.html)
-* [Record of Work - Term 5](./record_of_work-term_5.html)
-
-#### Target Queries
-
-Most useful first:
-
-* [ALeRCE Supernova Hunter](https://snhunter.alerce.online)
-* [ALeRCE ZTF query](https://alerce.online/?selectedClassifier=stamp_classifier&selectedClass=SN&probability=0.5&ndet=2&ndet=2797&ranking=1&firstmjd=60040&ra=180&dec=55&radius=144000&count=false&page=1&perPage=20) (40&deg; of RA 12h, DEC 55, SN probability > 0.5, discovery MJD > 60040, ordered by discovery, newest first)
-* [IAU TNS query](https://www.wis-tns.org/search?&ra=120.0&decl=55.0&radius=40.0&coords_unit=deg&date_start%5Bdate%5D=2023-02-05&date_end%5Bdate%5D=&discovery_mag_min=16&discovery_mag_max=19) (40&deg; of RA 8h DEC 55, discovery mag between 16 and 19, discovery date > 2023-02-05)
-
 ## Syllabus
 
 * [Syllabus](./TransientAstronomySyllabus.pdf) &mdash; A PDF that mirrors what is on this web page
@@ -40,7 +27,7 @@ These questions are necessarily mostly in the realm of experimental technique si
 
 This directed study is a blend of a (1) observational astronomy, (2) data-taking with research ambitions, and (3) developing a data-processing pipeline in Python. This blend fits under the model of &ldquo;Research Experience for Undergraduates (REU),&rdquo; as it is known at many institutions.
 
-To carry these three activities out, we need approximately 7 meetings for theory and organization, 14 meetings for joint observation sessions, and 7 meetings for joint analysis sessions.
+To carry these three activities out, we need approximately 14 meetings for theory and organization and 14 meetings for experimental work.
 
 These numbers are intentionally aligned with how many analytical and laboratory meetings a one-semester Deep Springs course would have if half of its meetings were analytical and half were laboratory. We will necessarily need to adapt if either the analytical or laboratory work takes an unexpected amount of time, while retaining the total target of approximately the same amount of meetings as a one-semester full-load course.
 
@@ -52,10 +39,11 @@ All three of us need to be fully cognizant and responsible for the results that 
 
 ### Phases
 
-Although there is definitely not a hard delineation or progression between (1) establishing technique, (2) using that technique, and (3) analyzing and writing up results, there are nonetheless three identifiable phases.
+Although there is definitely not a hard delineation or progression between (1) establishing technique, (2) using that technique, and (3) analyzing results, there are nonetheless three identifiable phases.
 
-In the first phase, we are principally establishing our experimental technique and just starting to establish our analytical technique. In the second phase, we are principally using our experimental technique while still improving our analytical technique. In the third phase, we are still getting additional data using the now-established experimental technique while polishing our analytical technique, and in parallel with that we are writing up the best of the results that we were able to achieve.
-Roughly speaking, these three phases will correspond to our activities in the three terms that we propose to do the work (Terms 3, 4, and 5).
+In the first phase, we are principally establishing our experimental technique and just starting to establish our analytical technique. In the second phase, we are principally using our experimental technique while still improving our analytical technique. In the third phase, we are still getting additional data using the now-established experimental technique while polishing our analytical technique.
+
+If our data and analyses are sufficiently compelling, we will write up our results for submission to a refereed journal.
 
 ### Analytical Work in Python
 
@@ -63,16 +51,9 @@ Analytical work has frequently been referred to above. In the [Spring 2022 Obser
 
 Our analysis will involve establishing Python [Development Environment](./software/development_environment.html) and a data-processing pipeline in this environment which we expect to use (i) [ccdproc](https://ccdproc.readthedocs.io/en/latest/) for [image calibration](./resources/ImageCalibration.pdf) (lights, darks, flats, and biases), (ii) [astroalign](https://astroalign.quatrope.org/en/latest/) and [twirl](https://github.com/lgrcia/twirl) for alignment and plate-solving, (iii) [astropy.visualization](https://docs.astropy.org/en/stable/visualization/index.html) and/or custom stretching routines to examine images, and (iv) [photutils](https://photutils.readthedocs.io/en/stable/getting_started.html) and in particular [photutils.psf](https://photutils.readthedocs.io/en/stable/psf.html) for PSF photometry. These (and other scientific) packages are most commonly accessed and built upon using Jupyter notebooks. Jupyter is an interactive scripting environment for manipulating data, making plots, and running Python code. We will document our Python [development environment](./software/development_environment.html) choices and procedures as well as the notebooks themselves.
 
-Challenges in photometry are to be expected because targets are generally superimposed directly on galaxies of comparable magnitude. We imagine four strategies from which the required artistry in photometry will emerge:
-  
-  1.  Ordinary PSF photometry
-  2.  PSF photometry with a fitted gradient background
-  3.  PSF photometry by subtracting PanSTARRS images of the host galaxies (scaled to the plate-scale of our telescope, and possibly convolved to model our seeing)
-  4.  PSF photometry one to two months after the supernovae have achieved peak brightness, using our images of the essentially-bare galaxies as background
-
 ## Grading / Evaluation
 
-* Observational Work &mdash; 25% &mdash; This will be comprised of approximately 14 data-taking sessions
+* Observational Work &mdash; 50% &mdash; This will be comprised of approximately 14 data-taking sessions
 * Analytical Work &mdash; 25% &mdash; Developing and applying the data-processing workflow in Jupyter
 * Scientific Record-Keeping &mdash; 25% &mdash; Records should include: (a) Target selection criteria starting with listings of available targets and their properties, (b) Conditions of data-taking, (c) Factors during observation that are relevant to data quality and data processing
-* Project Report and Presentation &mdash; 25% &mdash; We will jointly produce a project report. If our results are sufficiently significant, our project report will be submitted as a paper to a refereed journal (such as the Journal of the AAVSO or the Astronomical Society of the Pacific). We will also present our results to the Deep Springs community as a standalone presentation or as a lecture in the lecture series that is under discussion by CurCom.
+* We intended to jointly produce a project report during the directed study. We now (as of the end of the directed study) plan to do this after its conclusion. The record-breaking precipitation weather in 2023 put data-taking well behind schedule. We had budgeted time for significant amounts of poor weather in December, January and February. However, they were all tough weather-wise and in addition, March was also anomlous, with snowpack in the Sierra running at 200% of normal by the beginning of April. The above has been edited to reflect what was actually accomplished during the directed study.
